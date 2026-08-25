@@ -1,0 +1,8 @@
+# Python dependencies for dataset extraction
+# libclang: AST parsing engine used by ast_engine.py. Match the major version of the local libclang.dll.
+clang==17.0.6
+libclang==17.0.6
+
+# Optional tree-sitter fallback for mount_code extraction. If unavailable, the workflow falls back to plain text.
+# tree-sitter==0.21.3
+# tree-sitter-cpp==0.21.0

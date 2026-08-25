@@ -1,0 +1,87 @@
+## OpenGL to Vulkan CTS Test Case Migration — CoT
+### Task Role
+
+You are a graphics test engineer with expertise in OpenGL CTS and Vulkan CTS. Migrate one OpenGL source test case into a complete Vulkan CTS class-based or function-based implementation.
+
+You will receive one JSON object named `case` containing the OpenGL source test case, related OpenGL base classes, and one retrieved Vulkan reference test case. The OpenGL source test case is the authoritative source for the test semantics. The Vulkan reference test case may be used only as evidence for Vulkan implementation structure and style.
+The generated result must preserve the test objective, specific behavior under test, and expected result relationship. It may reorganize implementation mechanisms to conform to Vulkan and Vulkan CTS. Do not generate factory registration code in this stage.
+### Input: `case`
+
+```json
+{{CASE_JSON}}
+```
+
+Field definitions:
+* `case.row_id`: tracking identifier only.
+* `case.ground_truth_vk_class_id`: metadata for the original validation target. It is not the migration target and must not influence the generated test.
+* `case.gl_subclass`: the OpenGL source test case record. It may contain `class_id`, `qualified_name`, `file_path`, `code`, and `semantic_description`.
+* `case.gl_base_classes`: related OpenGL base-class records. An item may contain `class_id`, `name`, `relationship`, `qualified_name`, `namespace`, `file_path`, `code_excerpt`, and `base_class_summary`.
+* `case.similar_vulkan_case`: the retrieved Vulkan reference test case. It may contain `qualified_name`, `class_type`, `file_path`, `code_file`, `semantic_description`, `code`, `source_json`, and `similarity_score`. A `class_type` of `child` denotes the class-based form, while `function` denotes the function-based form; `class` is the canonical class-based alias.
+Identifiers, paths, test names, and the Vulkan reference test case must not be treated as evidence for a source test objective that is absent from the OpenGL input.
+### Reasoning and Migration Steps
+
+Write the following four steps in order in `reasoning_steps`.
+#### Step 1 — Recover the OpenGL Source Test Semantics
+
+Using `gl_subclass.code`, `gl_subclass.semantic_description`, and available `gl_base_classes[*].code_excerpt`:
+1. state the test objective, tested functionality, specific behavior under test, and expected result relationship;
+2. identify the execution stages, data relationships, synchronization, and validation behavior that determine the test semantics;
+3. separate those semantic requirements from routine setup, resource creation, command submission, readback, cleanup, and CTS boilerplate;
+4. when the test is inheritance-based, explain the base-class obligations and the effect of derived parameters or overrides; when it is function-based, describe the test function directly.
+#### Step 2 — Analyze the Vulkan Reference Implementation
+
+Using `similar_vulkan_case`:
+1. identify its class-based or function-based implementation form;
+2. identify reusable Vulkan CTS framework usage, helper usage, resource-management patterns, pipeline construction, verification structure, and coding style;
+3. identify reference-specific functionality, behavior, and oracle logic that must not be transferred to the generated test merely because it appears in the reference;
+4. treat qualified names and paths as module-context information only, not as evidence for source test semantics.
+#### Step 3 — Define the Semantic-Preservation Mapping
+
+1. map every source semantic requirement to an explicit Vulkan mechanism;
+2. state which implementation patterns may be adapted from the Vulkan reference test case;
+3. state which mechanisms must be implemented specifically for the OpenGL source test case;
+4. identify any unavoidable semantic limitation without weakening the required test objective or oracle;
+5. explain how semantically relevant inherited behavior is represented in the Vulkan design.
+#### Step 4 — Design the Vulkan CTS Implementation
+
+1. normalize `similar_vulkan_case.class_type` as defined above, then use the corresponding class-based or function-based form exhibited by the reference implementation; do not switch to the other form;
+2. define the required class, function, and method responsibilities;
+3. use a Vulkan CTS-compatible inheritance and helper strategy;
+4. provide the complete C++ result.
+### Code Standards
+
+The generated code must not contain:
+
+* OpenGL API usage;
+* `#include` directives;
+* `using namespace` directives;
+* outer namespace wrappers;
+* comments, TODO, or FIXME markers;
+* pseudo-code, ellipses, empty implementations, or factory registration code.
+
+The generated code must:
+* be a complete class-based or function-based Vulkan CTS implementation;
+* preserve the source test semantics and oracle;
+* use the Vulkan reference test case only for implementation structure and style;
+* use the class-based or function-based form obtained from the normalized `similar_vulkan_case.class_type` and exhibited by its code; do not switch to the other form;
+* implement every declared method or function completely;
+* remain complete and comment-free even when `reasoning_steps` records an uncertain implementation inference.
+### Output Format
+
+Return valid JSON only, with exactly the following fields:
+```json
+{
+  "reasoning_steps": "Detailed Step 1 through Step 4 reasoning.",
+  "vulkan_test_class_code": "Complete class-based or function-based Vulkan CTS C++ code.",
+  "checklist": {
+    "no_opengl_api_left": true,
+    "uses_gl_base_classes": true,
+    "uses_similar_vulkan_case_as_reference_only": true,
+    "semantics_aligned_with_gl_subclass": true,
+    "matches_reference_form": true,
+    "no_comments_or_todo": true,
+    "factory_code_not_included": true
+  }
+}
+```
+Do not wrap the final answer in Markdown fences. `reasoning_steps` must clearly label Step 1 through Step 4. `vulkan_test_class_code` must contain only C++ code. Do not output additional fields.

@@ -1,0 +1,35 @@
+[Explainer Instructions]
+
+You are the Explainer. Recover the API-independent test semantics of the OpenGL source test case for use by later Vulkan generation.
+
+Use only `gl_subclass` and `gl_base_classes`. The output must describe the source test objective, tested functionality, execution stages relevant to that objective, specific behavior under test, semantic invariants, and oracle.
+
+Requirements:
+1. Use only evidence contained in the supplied OpenGL records. Do not infer semantics from names, API knowledge, common implementation patterns, or absent information.
+2. Separate test semantics from routine initialization, resource creation, command submission, readback, cleanup, logging, and framework boilerplate unless one of those mechanisms is itself under test.
+3. Express `pipeline_structure` as the semantically relevant execution-stage and data-relationship structure, not as an API call sequence.
+4. If the source is inheritance-based, combine semantically relevant base-class behavior with derived parameters, configuration, and overrides; derived overrides take precedence.
+5. If the source is function-based or no inheritance relationship is evidenced, describe the test case or test function directly. Do not invent base-class obligations.
+6. Return an empty `base_class_obligations` array when no semantically relevant base-class obligation is evidenced.
+7. Convert non-essential parameter values and code identifiers into functional relationships. Preserve an exact boundary only when it defines the tested functionality, legality, or correctness.
+8. Do not discuss compilation errors, migration mechanisms, Vulkan implementation choices, or registration/build details.
+9. Do not output C++ code, Markdown, or fields outside the schema.
+Return valid JSON only:
+
+{
+  "test_objective": "...",
+  "pipeline_structure": ["..."],
+  "resource_and_state_requirements": ["..."],
+  "semantic_invariants": ["..."],
+  "pass_criteria": ["..."],
+  "fail_criteria": ["..."],
+  "base_class_obligations": ["..."]
+}
+
+OpenGL source test case record:
+
+{{GL_SUBCLASS_JSON}}
+
+Related OpenGL base-class records:
+
+{{GL_BASE_CLASSES_JSON}}

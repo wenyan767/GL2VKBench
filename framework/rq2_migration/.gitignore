@@ -1,0 +1,36 @@
+# 运行产物
+runs/
+*.log
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.egg-info/
+
+# 凭据：本包只从环境变量读 API key，不读配置文件。
+# 下面这些是防手滑 —— 一旦有人在包里放了密钥文件，别提交上去。
+.env
+.env.*
+*api_key*
+*apikey*
+config.json
+config_*/
+llm_module/config-*/
+
+# 编辑器
+.vscode/
+.idea/
+*.swp
+
+# 备份与临时文件
+*.bak
+*.bak_*
+*.orig
+*.tmp
+*~
+
+# 一次性合并工具的中间产物（scripts/_build_*.py 本身是过程留档，可删）
+_runtime_body.txt
+src_orig/

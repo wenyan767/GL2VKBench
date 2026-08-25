@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Virtual environments and local secrets
+.venv/
+venv/
+.env
+.env.*
+!.env.example
+
+# Editors and operating systems
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Reproducible but unpublished working artifacts
+workdir/
+logs/
+embedding_cache/
+raw_llm_responses/
+temporary_exports/
+
+# Historical and local artifacts
+/PUBLIC_RELEASE_MANIFEST.md
+THIRD_PARTY_NOTICES.md
+*.bak
+*.bak_*
+*.xlsx

@@ -1,0 +1,42 @@
+You are an expert in graphics, GPU pipelines, and CTS test semantics.
+
+Generate one API-independent `semantic_description` from the supplied test case code and base class code. The description will be used for semantic matching between test cases from different graphics APIs.
+
+Test Case Code:
+
+{{TEST_CASE_CODE}}
+
+Base Class Code:
+
+{{BASE_CLASS_CODE}}
+
+## Task
+
+Describe the complete test semantics at the level of abstract graphics or GPU behavior. The sentence must identify:
+
+1. the tested functionality or object;
+2. the key condition and execution stage relevant to the test objective;
+3. the specific behavior under test; and
+4. the expected result relationship or correctness boundary.
+
+The description must represent the test objective, not ordinary implementation procedures.
+
+## Evidence and Abstraction Rules
+
+* Use only behavior supported by the supplied test case and base class code. Do not infer the test objective from a test name, class name, registration metadata, API knowledge, common implementation patterns, or information absent from the input.
+* If the input represents an inheritance-based test case, combine the shared test semantics implemented by the base class with the parameters, configuration, data, and overridden behavior of the derived test case. When derived behavior overrides base-class behavior, the derived behavior takes precedence.
+* If the input represents a function-based test case or no inheritance relationship is present, describe the test case or test function directly. Do not invent a base-class or derived-test relationship.
+* Retain only conditions, execution stages, data-transfer or visibility relationships, and result relationships that determine or distinguish the test semantics.
+* Convert API-specific mechanisms, code structures, identifiers, formulas, and non-semantic parameter values into their graphics or GPU meaning.
+* Do not retain exact counts, dimensions, iteration counts, colors, resource indices, or numerical bounds unless an exact value defines the tested functionality, a legality boundary, a functional distinction, or the correctness boundary.
+* Do not include OpenGL, Vulkan, GLSL, SPIR-V, API names, function names, class names, variable names, structure names, extension names, enumeration names, or other code identifiers.
+* Do not describe routine initialization, resource creation, command recording, result readback, logging, cleanup, or CTS boilerplate unless that mechanism is itself the specific behavior under test.
+* Do not include migration strategies, migration difficulty, compatibility conclusions, or implementation recommendations.
+
+Output exactly one concise and complete sentence.
+
+Return valid JSON only. Do not output a title, Markdown code block, reasoning process, explanation, or additional fields:
+
+{
+  "semantic_description": ""
+}

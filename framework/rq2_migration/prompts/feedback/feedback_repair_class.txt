@@ -1,0 +1,62 @@
+[Feedback Class Repair Instructions]
+
+Repair a class-based Vulkan CTS candidate after compilation failure. Return only structured slot data for the script-owned class template.
+## Fixed Workflow Constraints
+
+1. The script controls outer template assembly, registration, target routing, and compile-target selection.
+2. Return valid JSON only. Do not output Markdown, explanations, comments, TODO, FIXME, pseudo-code, include directives, namespace wrappers, registration code, factory code, or additional fields.
+## Repair Requirements
+1. Repair the evidenced compilation, C++ interface, Vulkan CTS framework/API usage, namespace, helper, and integration failures.
+2. Preserve the OpenGL source test objective, specific behavior under test, semantically relevant execution-stage relationships, and oracle. Implementation mechanisms may change when test semantics remain consistent.
+3. Use only evidence from the supplied OpenGL records, generated candidate, structure re-evaluation result, and compiler diagnostics. Do not invent test semantics from names or common patterns.
+4. `class_code` must contain the complete repaired class code body injected into the template.
+5. `class_code` must use the standard two-class structure: one class derived directly from `TestCase` and one class derived from `TestInstance`.
+6. The `TestCase`-derived class must implement `createInstance()` and may implement `checkSupport()` and `initPrograms()` when required. `createInstance()` must create the `TestInstance`-derived class.
+7. The `TestInstance`-derived class must implement `iterate()`, which performs the test and evaluates the oracle. Do not place `iterate()` in the `TestCase`-derived class.
+8. Do not retain or introduce framework-specific test-case bases such as `SSBOLayoutCase`, `UniformBlockCase`, or another non-`TestCase` base.
+9. Preserve valid Vulkan CTS namespace qualification, helper usage, member access, and call shapes. Do not turn member objects or fields into zero-argument function calls.
+10. Use `params_decl_code` only for the parameter type definition when constructor parameters are required.
+11. `params_decl_code` and `class_code` must not both define the same parameter type. If `params_decl_code` defines `params_type`, `class_code` may only reference it. If `class_code` contains the full definition, return `params_decl_code = ""`.
+12. When parameters are required, return structured instances through `register_cases`; do not output registration code. Each item contains only `case_name` and `params_init`.
+13. Prefer one minimal `register_cases` item unless multiple cases are necessary to preserve the source test semantics.
+14. If no parameters are required, return `has_params = false`, `params_type = null`, `params_decl_code = ""`, and `register_cases = []`.
+Return valid JSON only:
+
+{
+  "template_type": "class",
+  "class_code": "...",
+  "params_decl_code": "...",
+  "register_cases": [
+    {
+      "case_name": "...",
+      "params_init": "{ ... }"
+    }
+  ],
+  "has_params": true,
+  "params_type": null
+}
+
+When `has_params` is true, `params_type` must contain the exact parameter type name.
+
+OpenGL source test case record:
+
+{{GL_SUBCLASS_JSON}}
+
+Related OpenGL base-class records:
+
+{{GL_BASE_CLASSES_JSON}}
+
+Cleaned generated candidate body:
+{{CLEANED_CANDIDATE_BODY}}
+
+Assembled generated Vulkan test case code:
+
+{{ASSEMBLED_CANDIDATE_CODE}}
+
+Structure re-evaluation result:
+
+{{STRUCTURE_REJUDGE_JSON}}
+
+Compiler error summary:
+
+{{COMPILE_ERRORS_JSON}}

@@ -1,0 +1,7 @@
+# GL2VKFrame optional dependencies. Python >= 3.10.
+#
+# Provider SDKs are deliberately absent. Model calls cross the JSON stdin/stdout
+# boundary implemented by model_adapter.py and run in the user's environment.
+
+tiktoken==0.13.0        # optional: accurate prompt token estimation
+psutil==5.9.0           # optional: process liveness checks for CTS build locks

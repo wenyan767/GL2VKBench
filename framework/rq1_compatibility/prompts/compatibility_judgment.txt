@@ -1,0 +1,26 @@
+You are an expert in graphics, GPU pipelines, and OpenGL and Vulkan CTS test semantics.
+
+Determine whether the tested functionality and specific behavior under test described below are supported by Vulkan.
+
+Semantic Description:
+
+{{SEMANTIC_DESCRIPTION}}
+
+## Decision Criteria
+
+Base the decision only on the supplied `semantic_description`, specifically its test objective, tested functionality, specific behavior under test, execution stage, and expected result relationship.
+
+* `compatible`: Vulkan supports the tested graphics or GPU functionality and the specific behavior under test, and the behavior can be implemented and verified within the Vulkan execution model without semantic drift.
+* `incompatible`: The test objective requires OpenGL-specific functionality that Vulkan does not support. This includes an OpenGL API semantic with no corresponding Vulkan capability, implicit state-machine or implicit-context behavior when that behavior is itself under test, shader-program functionality unsupported by Vulkan, or fixed-function rendering behavior with no Vulkan equivalent.
+* Differences in object models, explicit state configuration, command organization, resource management, synchronization, or other implementation mechanisms do not by themselves make a test incompatible. Semantic equivalence does not require implementation equivalence.
+* When an OpenGL-specific mechanism only implements tested graphics or GPU functionality whose specific behavior is supported by Vulkan, classify the test as `compatible`.
+* The incompatibility categories are decision criteria, not additional evidence. Apply a category only when the semantic description explicitly supports it.
+* Do not infer the test objective from a test name, API knowledge, common implementation patterns, or information absent from the semantic description.
+* Do not use migration difficulty, code complexity, or implementation differences as compatibility criteria.
+
+Return valid JSON only. `compatibility` must be exactly `compatible` or `incompatible`. Do not output a Markdown code block, reasoning process, explanation outside the JSON object, or additional fields:
+
+{
+  "compatibility": "compatible",
+  "reason": "One concise sentence stating the decisive reason."
+}

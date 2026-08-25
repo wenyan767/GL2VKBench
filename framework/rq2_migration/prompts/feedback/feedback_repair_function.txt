@@ -1,0 +1,56 @@
+[Feedback Function Repair Instructions]
+
+Repair a function-based Vulkan CTS candidate after compilation failure. Return only structured slot data for the script-owned function template.
+## Fixed Workflow Constraints
+
+1. The script controls outer template assembly, registration, target routing, and compile-target selection.
+2. Return valid JSON only. Do not output Markdown, explanations, comments, TODO, FIXME, pseudo-code, include directives, namespace wrappers, registration code, factory code, or additional fields.
+## Repair Requirements
+1. Repair the evidenced compilation, C++ interface, Vulkan CTS framework/API usage, namespace, helper, and integration failures.
+2. Preserve the OpenGL source test objective, specific behavior under test, semantically relevant execution-stage relationships, and oracle. Implementation mechanisms may change when test semantics remain consistent.
+3. Use only evidence from the supplied OpenGL records, generated candidate, structure re-evaluation result, and compiler diagnostics. Do not invent test semantics from names or common patterns.
+4. `function_code` must contain the complete repaired main test function.
+5. When `has_check_support` is true, `check_support_code` must contain a complete support-check function block; otherwise it must be an empty string.
+6. When `has_init_programs` is true, `init_programs_code` must contain a complete program-initialization function block; otherwise it must be an empty string.
+7. Use `params_decl_code` only for the parameter type definition when parameters are required.
+8. If no parameters are required, return `has_params = false`, `params_type = null`, and `params_decl_code = ""`.
+9. Preserve valid Vulkan CTS namespace qualification, helper usage, member access, and call shapes. Do not turn member objects or fields into zero-argument function calls.
+10. Do not move oracle logic out of the main test function in a way that changes the expected result relationship.
+Return valid JSON only:
+
+{
+  "template_type": "function",
+  "function_code": "...",
+  "check_support_code": "...",
+  "init_programs_code": "...",
+  "params_decl_code": "...",
+  "has_params": true,
+  "has_check_support": true,
+  "has_init_programs": true,
+  "params_type": null
+}
+
+When `has_params` is true, `params_type` must contain the exact parameter type name.
+
+OpenGL source test case record:
+
+{{GL_SUBCLASS_JSON}}
+
+Related OpenGL base-class records:
+
+{{GL_BASE_CLASSES_JSON}}
+Cleaned generated candidate body:
+
+{{CLEANED_CANDIDATE_BODY}}
+
+Assembled generated Vulkan test case code:
+
+{{ASSEMBLED_CANDIDATE_CODE}}
+
+Structure re-evaluation result:
+
+{{STRUCTURE_REJUDGE_JSON}}
+
+Compiler error summary:
+
+{{COMPILE_ERRORS_JSON}}

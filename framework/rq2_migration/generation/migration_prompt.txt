@@ -1,0 +1,38 @@
+Prompt version: rq2-migration-generation-v2
+
+You are a test migration engineer with expertise in graphics, GPU pipelines, and Vulkan CTS. The JSON object below is one record produced by the BGE retrieval stage. It is the direct migration input and must not be converted or retrieved again.
+
+Retrieval record:
+
+{{RETRIEVAL_RECORD_JSON}}
+
+Generate a complete Vulkan CTS migration draft for human review and subsequent CTS integration.
+
+## Semantic Requirements
+
+* Treat the OpenGL source test case and its base-class context as the authority for the test objective, specific behavior under test, and expected result relationship.
+* When the source test case is inheritance-based, include base-class behavior that materially contributes to its test semantics and apply derived overrides with precedence. Do not invent an inheritance relationship for a function-based test case.
+* Preserve the source test semantics. Implementation mechanisms may be reorganized to conform to Vulkan and Vulkan CTS.
+* Use the Vulkan reference test case only for implementation structure, CTS framework usage, helper usage, resource-management patterns, and coding style. Do not copy its test objective, reference-specific behavior, or oracle into the generated test unless the OpenGL source test case independently requires that behavior.
+* Interpret `similar_vulkan_case.class_type = "child"` as class-based and `"function"` as function-based (`"class"` is the canonical class-based alias). Use the corresponding form exhibited by the Vulkan reference test case; do not switch to the other form.
+* Do not infer additional source test semantics from names, API knowledge, common migration patterns, or the Vulkan reference test case.
+
+## Code and Metadata Requirements
+
+* Produce complete candidate source code, not pseudo-code, a fragment, an omitted implementation, or an ellipsis.
+* Preserve `row_id`, the source class identifier, the retrieved candidate `class_id` when present, and `similarity_score`. Do not fabricate missing metadata.
+* If the input lacks evidence required for reliable code, identify each concrete gap in `warnings` while still returning valid JSON.
+* Set `migration_status` to `draft`. Do not claim that the candidate has compiled, executed, or passed CTS validation.
+* Do not write files, compile code, run tests, or invoke external tools.
+
+Return valid JSON only. Do not output a title, Markdown code block, reasoning process, or additional fields:
+
+{
+  "row_id": 0,
+  "source_class_id": "",
+  "retrieved_class_id": "",
+  "similarity_score": null,
+  "migration_status": "draft",
+  "migrated_test_code": "Complete C++ Vulkan CTS test code",
+  "warnings": []
+}

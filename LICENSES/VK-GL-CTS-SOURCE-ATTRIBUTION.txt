@@ -1,0 +1,3107 @@
+VK-GL-CTS source attribution for GL2VKFrame
+
+Upstream repository: https://github.com/KhronosGroup/VK-GL-CTS
+Revision: 3fd22bb487e8dba3c553d00b5e7f6b62b23ee9e4
+License: Apache License 2.0 (see Apache-2.0.txt)
+Upstream NOTICE: see VK-GL-CTS-NOTICE.txt
+
+This index preserves the copyright notices found in the 839 unique
+VK-GL-CTS source files referenced by the released CTS records. The released
+JSON/JSONL data contains extracted or transformed source fragments and may
+not retain each source file's original header inline.
+
+external/openglcts/modules/common/glcAggressiveShaderOptimizationsTests.cpp
+  Copyright (c) 2017 The Khronos Group Inc.
+
+external/openglcts/modules/common/glcApiCoverageTests.cpp
+  Copyright (c) 2024 The Khronos Group Inc.
+
+external/openglcts/modules/common/glcBindImageTextureTests.cpp
+  Copyright (c) 2024 The Khronos Group Inc.
+
+external/openglcts/modules/common/glcBlendEquationAdvancedTests.cpp
+  Copyright (c) 2014-2016 The Khronos Group Inc.
+
+external/openglcts/modules/common/glcBufferObjectsTests.cpp
+  Copyright (c) 2024 The Khronos Group Inc.
+
+external/openglcts/modules/common/glcBufferObjectsTests.hpp
+  Copyright (c) 2024 The Khronos Group Inc.
+
+external/openglcts/modules/common/glcClipDistance.cpp
+  Copyright (c) 2015-2016 The Khronos Group Inc.
+
+external/openglcts/modules/common/glcClipDistance.hpp
+  Copyright (c) 2015-2016 The Khronos Group Inc.
+
+external/openglcts/modules/common/glcCompressedFormatTests.cpp
+  Copyright (c) 2021 Google Inc.
+  Copyright (c) 2021 The Khronos Group Inc.
+
+external/openglcts/modules/common/glcConfigListCase.cpp
+  Copyright (c) 2016 Google Inc.
+  Copyright (c) 2016 The Khronos Group Inc.
+
+external/openglcts/modules/common/glcContextFlagsTests.cpp
+  Copyright (c) 2017 The Khronos Group Inc.
+
+external/openglcts/modules/common/glcCullDistance.cpp
+  Copyright (c) 2015-2016 The Khronos Group Inc.
+
+external/openglcts/modules/common/glcCullDistance.hpp
+  Copyright (c) 2015-2016 The Khronos Group Inc.
+
+external/openglcts/modules/common/glcExposedExtensionsTests.cpp
+  Copyright (c) 2017 The Khronos Group Inc.
+
+external/openglcts/modules/common/glcFragCoordConventionsTests.cpp
+  Copyright (c) 2024 The Khronos Group Inc.
+
+external/openglcts/modules/common/glcFragDepthTests.cpp
+  Copyright (c) 2016 Google Inc.
+  Copyright (c) 2016 The Khronos Group Inc.
+
+external/openglcts/modules/common/glcFramebufferBlitTests.cpp
+  Copyright (c) 2024 The Khronos Group Inc.
+
+external/openglcts/modules/common/glcFramebufferBlitTests.hpp
+  Copyright (c) 2024 The Khronos Group Inc.
+
+external/openglcts/modules/common/glcFramebufferCompleteness.cpp
+  Copyright (c) 2021 Google Inc.
+  Copyright (c) 2021 The Khronos Group Inc.
+
+external/openglcts/modules/common/glcGLSLVectorConstructorTests.cpp
+  Copyright (c) 2016 Google Inc.
+  Copyright (c) 2016 The Khronos Group Inc.
+
+external/openglcts/modules/common/glcInfoTests.cpp
+  Copyright (c) 2016 Google Inc.
+  Copyright (c) 2016 The Khronos Group Inc.
+
+external/openglcts/modules/common/glcInternalformatTests.cpp
+  Copyright (c) 2017 The Khronos Group Inc.
+
+external/openglcts/modules/common/glcKHRDebugTests.cpp
+  Copyright (c) 2015-2018 The Khronos Group Inc.
+
+external/openglcts/modules/common/glcKHRDebugTests.hpp
+  Copyright (c) 2015-2018 The Khronos Group Inc.
+
+external/openglcts/modules/common/glcLayoutLocationTests.cpp
+  Copyright (c) 2014-2018 The Khronos Group Inc.
+
+external/openglcts/modules/common/glcLimitTest.hpp
+  Copyright (c) 2017 The Khronos Group Inc.
+
+external/openglcts/modules/common/glcMultipleContextsTests.cpp
+  Copyright (c) 2017 The Khronos Group Inc.
+
+external/openglcts/modules/common/glcNearestEdgeTests.cpp
+  Copyright (c) 2020 Valve Coporation.
+  Copyright (c) 2020 The Khronos Group Inc.
+
+external/openglcts/modules/common/glcNegativeTextureLookupFunctionsBiasTests.cpp
+  Copyright (c) 2025 The Khronos Group Inc.
+
+external/openglcts/modules/common/glcNoErrorTests.cpp
+  Copyright (c) 2017 The Khronos Group Inc.
+
+external/openglcts/modules/common/glcPackedDepthStencilTests.cpp
+  Copyright (c) 2017 The Khronos Group Inc.
+
+external/openglcts/modules/common/glcPackedPixelsTests.cpp
+  Copyright (c) 2017 The Khronos Group Inc.
+
+external/openglcts/modules/common/glcParallelShaderCompileTests.cpp
+  Copyright (c) 2016-2017 The Khronos Group Inc.
+
+external/openglcts/modules/common/glcPixelStorageModesTests.cpp
+  Copyright (c) 2020 The Khronos Group Inc.
+  Copyright (c) 2020 Intel Corporation
+
+external/openglcts/modules/common/glcPolygonOffsetClampTests.cpp
+  Copyright (c) 2017 The Khronos Group Inc.
+
+external/openglcts/modules/common/glcPolygonOffsetClampTests.hpp
+  Copyright (c) 2017 The Khronos Group Inc.
+
+external/openglcts/modules/common/glcRobustBufferAccessBehaviorTests.cpp
+  Copyright (c) 2016 The Khronos Group Inc.
+
+external/openglcts/modules/common/glcRobustBufferAccessBehaviorTests.hpp
+  Copyright (c) 2016 The Khronos Group Inc.
+
+external/openglcts/modules/common/glcRobustnessTests.cpp
+  Copyright (c) 2017 The Khronos Group Inc.
+
+external/openglcts/modules/common/glcSampleVariablesTests.cpp
+  Copyright (c) 2014-2016 The Khronos Group Inc.
+
+external/openglcts/modules/common/glcSeparableProgramsTransformFeedbackTests.cpp
+  Copyright (c) 2017 The Khronos Group Inc.
+
+external/openglcts/modules/common/glcShaderFunctionTests.cpp
+  Copyright (c) 2016 Google Inc.
+  Copyright (c) 2016 The Khronos Group Inc.
+
+external/openglcts/modules/common/glcShaderGroupVoteTests.cpp
+  Copyright (c) 2017 The Khronos Group Inc.
+
+external/openglcts/modules/common/glcShaderGroupVoteTests.hpp
+  Copyright (c) 2017 The Khronos Group Inc.
+
+external/openglcts/modules/common/glcShaderImageLoadStoreTests.cpp
+  Copyright (c) 2014-2016 The Khronos Group Inc.
+
+external/openglcts/modules/common/glcShaderIndexingTests.cpp
+  Copyright (c) 2016 Google Inc.
+  Copyright (c) 2016 The Khronos Group Inc.
+
+external/openglcts/modules/common/glcShaderIntegerMixTests.cpp
+  Copyright (c) 2014 Intel Corporation
+  Copyright (c) 2016 The Khronos Group Inc.
+
+external/openglcts/modules/common/glcShaderLibraryCase.cpp
+  Copyright (c) 2016 Google Inc.
+  Copyright (c) 2016 The Khronos Group Inc.
+
+external/openglcts/modules/common/glcShaderLoopTests.cpp
+  Copyright (c) 2016 Google Inc.
+  Copyright (c) 2016 The Khronos Group Inc.
+
+external/openglcts/modules/common/glcShaderMacroTests.cpp
+  Copyright (c) 2017 The Khronos Group Inc.
+
+external/openglcts/modules/common/glcShaderMultisampleInterpolationTests.cpp
+  Copyright (c) 2014-2016 The Khronos Group Inc.
+
+external/openglcts/modules/common/glcShaderNegativeTests.cpp
+  Copyright (c) 2015-2016 The Khronos Group Inc.
+
+external/openglcts/modules/common/glcShaderRenderCase.hpp
+  Copyright (c) 2016 Google Inc.
+  Copyright (c) 2016 The Khronos Group Inc.
+
+external/openglcts/modules/common/glcShaderStorageBufferObjectTests.cpp
+  Copyright (c) 2014-2016 The Khronos Group Inc.
+
+external/openglcts/modules/common/glcShaderStructTests.cpp
+  Copyright (c) 2016 Google Inc.
+  Copyright (c) 2016 The Khronos Group Inc.
+
+external/openglcts/modules/common/glcTestCase.hpp
+  Copyright (c) 2016 Google Inc.
+  Copyright (c) 2016 The Khronos Group Inc.
+
+external/openglcts/modules/common/glcTestSubcase.cpp
+  Copyright (c) 2014-2016 The Khronos Group Inc.
+
+external/openglcts/modules/common/glcTestSubcase.hpp
+  Copyright (c) 2014-2016 The Khronos Group Inc.
+
+external/openglcts/modules/common/glcTextureCompatibilityTests.cpp
+  Copyright (c) 2021 Google Inc.
+  Copyright (c) 2021 The Khronos Group Inc.
+
+external/openglcts/modules/common/glcTextureFilterAnisotropicTests.cpp
+  Copyright (c) 2017 The Khronos Group Inc.
+
+external/openglcts/modules/common/glcTextureLodBasicTests.cpp
+  Copyright (c) 2024 The Khronos Group Inc.
+
+external/openglcts/modules/common/glcTextureLodBiasTests.cpp
+  Copyright (c) 2024 The Khronos Group Inc.
+
+external/openglcts/modules/common/glcTextureRepeatModeTests.cpp
+  Copyright (c) 2017 The Khronos Group Inc.
+
+external/openglcts/modules/common/glcTextureStencil8Tests.cpp
+  Copyright (c) 2024 The Khronos Group Inc.
+
+external/openglcts/modules/common/glcTextureStorageTests.cpp
+  Copyright (c) 2024 The Khronos Group Inc.
+
+external/openglcts/modules/common/glcTransformFeedbackTests.cpp
+  Copyright (c) 2024 The Khronos Group Inc.
+
+external/openglcts/modules/common/glcUniformBlockCase.hpp
+  Copyright (c) 2016 Google Inc.
+  Copyright (c) 2016 The Khronos Group Inc.
+
+external/openglcts/modules/common/glcUniformBlockNegativeTests.cpp
+  Copyright (c) 2024 The Khronos Group Inc.
+
+external/openglcts/modules/common/glcUniformBlockNegativeTests.hpp
+  Copyright (c) 2024 The Khronos Group Inc.
+
+external/openglcts/modules/common/glcUniformBlockTests.cpp
+  Copyright (c) 2016 Google Inc.
+  Copyright (c) 2016 The Khronos Group Inc.
+
+external/openglcts/modules/common/glcViewportArrayTests.cpp
+  Copyright (c) 2014-2016 The Khronos Group Inc.
+
+external/openglcts/modules/common/glcViewportArrayTests.hpp
+  Copyright (c) 2014-2016 The Khronos Group Inc.
+
+external/openglcts/modules/common/meshShader/glcMeshShaderApiTests.cpp
+  Copyright (c) 2025 The Khronos Group Inc.
+  Copyright (c) 2025 AMD Corporation.
+
+external/openglcts/modules/common/meshShader/glcMeshShaderPropertyTests.cpp
+  Copyright (c) 2025 The Khronos Group Inc.
+  Copyright (c) 2025 AMD Corporation.
+
+external/openglcts/modules/common/meshShader/glcMeshShaderPropertyTests.hpp
+  Copyright (c) 2025 The Khronos Group Inc.
+  Copyright (c) 2025 AMD Corporation.
+
+external/openglcts/modules/common/meshShader/glcMeshShaderSmokeTests.cpp
+  Copyright (c) 2025 The Khronos Group Inc.
+  Copyright (c) 2025 AMD Corporation.
+
+external/openglcts/modules/common/meshShader/glcMeshShaderSmokeTests.hpp
+  Copyright (c) 2025 The Khronos Group Inc.
+  Copyright (c) 2025 AMD Corporation.
+
+external/openglcts/modules/common/subgroups/glcSubgroupsArithmeticTests.cpp
+  Copyright (c) 2017-2019 The Khronos Group Inc.
+  Copyright (c) 2017 Codeplay Software Ltd.
+  Copyright (c) 2019 NVIDIA Corporation.
+
+external/openglcts/modules/common/subgroups/glcSubgroupsBallotBroadcastTests.cpp
+  Copyright (c) 2017-2019 The Khronos Group Inc.
+  Copyright (c) 2017 Codeplay Software Ltd.
+  Copyright (c) 2019 NVIDIA Corporation.
+
+external/openglcts/modules/common/subgroups/glcSubgroupsBallotOtherTests.cpp
+  Copyright (c) 2017-2019 The Khronos Group Inc.
+  Copyright (c) 2017 Codeplay Software Ltd.
+  Copyright (c) 2019 NVIDIA Corporation.
+
+external/openglcts/modules/common/subgroups/glcSubgroupsBallotTests.cpp
+  Copyright (c) 2017-2019 The Khronos Group Inc.
+  Copyright (c) 2017 Codeplay Software Ltd.
+  Copyright (c) 2019 NVIDIA Corporation.
+
+external/openglcts/modules/common/subgroups/glcSubgroupsBasicTests.cpp
+  Copyright (c) 2017-2019 The Khronos Group Inc.
+  Copyright (c) 2017 Codeplay Software Ltd.
+  Copyright (c) 2019 NVIDIA Corporation.
+
+external/openglcts/modules/common/subgroups/glcSubgroupsBuiltinMaskVarTests.cpp
+  Copyright (c) 2017-2019 The Khronos Group Inc.
+  Copyright (c) 2017 Codeplay Software Ltd.
+  Copyright (c) 2019 NVIDIA Corporation.
+
+external/openglcts/modules/common/subgroups/glcSubgroupsBuiltinVarTests.cpp
+  Copyright (c) 2017-2019 The Khronos Group Inc.
+  Copyright (c) 2017 Codeplay Software Ltd.
+  Copyright (c) 2019 NVIDIA Corporation.
+
+external/openglcts/modules/common/subgroups/glcSubgroupsClusteredTests.cpp
+  Copyright (c) 2017-2019 The Khronos Group Inc.
+  Copyright (c) 2017 Codeplay Software Ltd.
+  Copyright (c) 2019 NVIDIA Corporation.
+
+external/openglcts/modules/common/subgroups/glcSubgroupsPartitionedTests.cpp
+  Copyright (c) 2017-2019 The Khronos Group Inc.
+  Copyright (c) 2017 Codeplay Software Ltd.
+  Copyright (c) 2018-2019 NVIDIA Corporation
+
+external/openglcts/modules/common/subgroups/glcSubgroupsQuadTests.cpp
+  Copyright (c) 2017-2019 The Khronos Group Inc.
+  Copyright (c) 2017 Codeplay Software Ltd.
+  Copyright (c) 2019 NVIDIA Corporation.
+
+external/openglcts/modules/common/subgroups/glcSubgroupsShapeTests.cpp
+  Copyright (c) 2017-2019 The Khronos Group Inc.
+  Copyright (c) 2017 Codeplay Software Ltd.
+  Copyright (c) 2019 NVIDIA Corporation.
+
+external/openglcts/modules/common/subgroups/glcSubgroupsShuffleTests.cpp
+  Copyright (c) 2017-2019 The Khronos Group Inc.
+  Copyright (c) 2017 Codeplay Software Ltd.
+  Copyright (c) 2019 NVIDIA Corporation.
+
+external/openglcts/modules/common/subgroups/glcSubgroupsTestsUtils.hpp
+  Copyright (c) 2017-2019 The Khronos Group Inc.
+  Copyright (c) 2017 Codeplay Software Ltd.
+  Copyright (c) 2019 NVIDIA Corporation.
+
+external/openglcts/modules/common/subgroups/glcSubgroupsVoteTests.cpp
+  Copyright (c) 2017-2019 The Khronos Group Inc.
+  Copyright (c) 2017 Codeplay Software Ltd.
+  Copyright (c) 2019 NVIDIA Corporation.
+
+external/openglcts/modules/gl/gl3cCommonBugsTests.cpp
+  Copyright (c) 2015-2016 The Khronos Group Inc.
+
+external/openglcts/modules/gl/gl3cDrawBuffers.cpp
+  Copyright (c) 2024 The Khronos Group Inc.
+
+external/openglcts/modules/gl/gl3cGLSLnoperspectiveTests.cpp
+  Copyright (c) 2015-2016 The Khronos Group Inc.
+
+external/openglcts/modules/gl/gl3cGPUShader5Tests.cpp
+  Copyright (c) 2015-2016 The Khronos Group Inc.
+
+external/openglcts/modules/gl/gl3cGPUShader5Tests.hpp
+  Copyright (c) 2015-2016 The Khronos Group Inc.
+
+external/openglcts/modules/gl/gl3cGetUniform.cpp
+  Copyright (c) 2024 The Khronos Group Inc.
+
+external/openglcts/modules/gl/gl3cPrimitiveRestart.cpp
+  Copyright (c) 2024 The Khronos Group Inc.
+
+external/openglcts/modules/gl/gl3cTextureFilterMinmaxTests.cpp
+  Copyright (c) 2016 The Khronos Group Inc.
+
+external/openglcts/modules/gl/gl3cTextureFilterMinmaxTests.hpp
+  Copyright (c) 2016 The Khronos Group Inc.
+
+external/openglcts/modules/gl/gl3cTextureSizePromotion.cpp
+  Copyright (c) 2015-2016 The Khronos Group Inc.
+
+external/openglcts/modules/gl/gl3cTextureSwizzleTests.cpp
+  Copyright (c) 2015-2016 The Khronos Group Inc.
+
+external/openglcts/modules/gl/gl3cTextureSwizzleTests.hpp
+  Copyright (c) 2015-2016 The Khronos Group Inc.
+
+external/openglcts/modules/gl/gl3cTransformFeedback3Tests.cpp
+  Copyright (c) 2024 The Khronos Group Inc.
+
+external/openglcts/modules/gl/gl3cTransformFeedback3Tests.hpp
+  Copyright (c) 2024 The Khronos Group Inc.
+
+external/openglcts/modules/gl/gl3cTransformFeedbackOverflowQueryTests.cpp
+  Copyright (c) 2014-2016 The Khronos Group Inc.
+
+external/openglcts/modules/gl/gl3cTransformFeedbackTests.cpp
+  Copyright (c) 2015-2016 The Khronos Group Inc.
+
+external/openglcts/modules/gl/gl3cTransformFeedbackTests.hpp
+  Copyright (c) 2015-2016 The Khronos Group Inc.
+
+external/openglcts/modules/gl/gl4cBufferStorageTests.cpp
+  Copyright (c) 2015-2016 The Khronos Group Inc.
+
+external/openglcts/modules/gl/gl4cClearTexImageAndSubImageTests.cpp
+  Copyright (c) 2025 The Khronos Group Inc.
+
+external/openglcts/modules/gl/gl4cClipControlTests.cpp
+  Copyright (c) 2014-2016 The Khronos Group Inc.
+
+external/openglcts/modules/gl/gl4cComputeShaderTests.cpp
+  Copyright (c) 2014-2016 The Khronos Group Inc.
+
+external/openglcts/modules/gl/gl4cConditionalRenderInvertedTests.cpp
+  Copyright (c) 2015-2016 The Khronos Group Inc.
+
+external/openglcts/modules/gl/gl4cContextFlushControlTests.cpp
+  Copyright (c) 2015-2016 The Khronos Group Inc.
+
+external/openglcts/modules/gl/gl4cCopyImageTests.cpp
+  Copyright (c) 2015-2016 The Khronos Group Inc.
+
+external/openglcts/modules/gl/gl4cDirectStateAccessBuffersTests.cpp
+  Copyright (c) 2015-2016 The Khronos Group Inc.
+
+external/openglcts/modules/gl/gl4cDirectStateAccessFramebuffersAndRenderbuffersTests.cpp
+  Copyright (c) 2015-2016 The Khronos Group Inc.
+
+external/openglcts/modules/gl/gl4cDirectStateAccessProgramPipelinesTests.cpp
+  Copyright (c) 2015-2016 The Khronos Group Inc.
+
+external/openglcts/modules/gl/gl4cDirectStateAccessQueriesTests.cpp
+  Copyright (c) 2015-2016 The Khronos Group Inc.
+
+external/openglcts/modules/gl/gl4cDirectStateAccessSamplersTests.cpp
+  Copyright (c) 2015-2016 The Khronos Group Inc.
+
+external/openglcts/modules/gl/gl4cDirectStateAccessTests.hpp
+  Copyright (c) 2015-2020 The Khronos Group Inc.
+
+external/openglcts/modules/gl/gl4cDirectStateAccessTexturesTests.cpp
+  Copyright (c) 2015-2016 The Khronos Group Inc.
+
+external/openglcts/modules/gl/gl4cDirectStateAccessVertexArraysTests.cpp
+  Copyright (c) 2015-2016 The Khronos Group Inc.
+
+external/openglcts/modules/gl/gl4cDirectStateAccessXFBTests.cpp
+  Copyright (c) 2015-2016 The Khronos Group Inc.
+
+external/openglcts/modules/gl/gl4cES31CompatibilityTests.cpp
+  Copyright (c) 2015-2016 The Khronos Group Inc.
+
+external/openglcts/modules/gl/gl4cEnhancedLayoutsTests.cpp
+  Copyright (c) 2015-2016 The Khronos Group Inc.
+
+external/openglcts/modules/gl/gl4cEnhancedLayoutsTests.hpp
+  Copyright (c) 2015-2016 The Khronos Group Inc.
+
+external/openglcts/modules/gl/gl4cGPUShaderFP64Tests.cpp
+  Copyright (c) 2014-2016 The Khronos Group Inc.
+
+external/openglcts/modules/gl/gl4cGetTextureSubImageTests.cpp
+  Copyright (c) 2015-2016 The Khronos Group Inc.
+
+external/openglcts/modules/gl/gl4cGlSpirvTests.cpp
+  Copyright (c) 2017 The Khronos Group Inc.
+
+external/openglcts/modules/gl/gl4cIncompleteTextureAccessTests.cpp
+  Copyright (c) 2015-2016 The Khronos Group Inc.
+
+external/openglcts/modules/gl/gl4cIncompleteTextureAccessTests.hpp
+  Copyright (c) 2015-2016 The Khronos Group Inc.
+
+external/openglcts/modules/gl/gl4cIndirectParametersTests.cpp
+  Copyright (c) 2017 The Khronos Group Inc.
+
+external/openglcts/modules/gl/gl4cIndirectParametersTests.hpp
+  Copyright (c) 2017 The Khronos Group Inc.
+
+external/openglcts/modules/gl/gl4cMapBufferAlignmentTests.cpp
+  Copyright (c) 2015-2016 The Khronos Group Inc.
+
+external/openglcts/modules/gl/gl4cMultiBindTests.cpp
+  Copyright (c) 2015-2016 The Khronos Group Inc.
+
+external/openglcts/modules/gl/gl4cPipelineStatisticsQueryTests.cpp
+  Copyright (c) 2014-2016 The Khronos Group Inc.
+
+external/openglcts/modules/gl/gl4cPipelineStatisticsQueryTests.hpp
+  Copyright (c) 2014-2016 The Khronos Group Inc.
+
+external/openglcts/modules/gl/gl4cPostDepthCoverageTests.cpp
+  Copyright (c) 2016 The Khronos Group Inc.
+
+external/openglcts/modules/gl/gl4cProgramInterfaceQueryTests.cpp
+  Copyright (c) 2014-2016 The Khronos Group Inc.
+
+external/openglcts/modules/gl/gl4cShaderAtomicCounterOpsTests.cpp
+  Copyright (c) 2017 The Khronos Group Inc.
+
+external/openglcts/modules/gl/gl4cShaderAtomicCounterOpsTests.hpp
+  Copyright (c) 2017 The Khronos Group Inc.
+
+external/openglcts/modules/gl/gl4cShaderAtomicCountersTests.cpp
+  Copyright (c) 2014-2016 The Khronos Group Inc.
+
+external/openglcts/modules/gl/gl4cShaderBallotTests.cpp
+  Copyright (c) 2014-2017 The Khronos Group Inc.
+
+external/openglcts/modules/gl/gl4cShaderBallotTests.hpp
+  Copyright (c) 2014-2017 The Khronos Group Inc.
+
+external/openglcts/modules/gl/gl4cShaderDrawParametersTests.cpp
+  Copyright (c) 2016 The Khronos Group Inc.
+
+external/openglcts/modules/gl/gl4cShaderDrawParametersTests.hpp
+  Copyright (c) 2016 The Khronos Group Inc.
+
+external/openglcts/modules/gl/gl4cShaderImageLoadStoreTests.cpp
+  Copyright (c) 2014-2016 The Khronos Group Inc.
+
+external/openglcts/modules/gl/gl4cShaderImageSizeTests.cpp
+  Copyright (c) 2014-2016 The Khronos Group Inc.
+
+external/openglcts/modules/gl/gl4cShaderStorageBufferObjectTests.cpp
+  Copyright (c) 2014-2016 The Khronos Group Inc.
+
+external/openglcts/modules/gl/gl4cShaderSubroutineTests.cpp
+  Copyright (c) 2014-2016 The Khronos Group Inc.
+
+external/openglcts/modules/gl/gl4cShaderTextureImageSamplesTests.cpp
+  Copyright (c) 2014-2016 The Khronos Group Inc.
+
+external/openglcts/modules/gl/gl4cShaderTextureImageSamplesTests.hpp
+  Copyright (c) 2014-2016 The Khronos Group Inc.
+
+external/openglcts/modules/gl/gl4cShaderViewportLayerArrayTests.cpp
+  Copyright (c) 2017 The Khronos Group Inc.
+
+external/openglcts/modules/gl/gl4cShaderViewportLayerArrayTests.hpp
+  Copyright (c) 2017 The Khronos Group Inc.
+
+external/openglcts/modules/gl/gl4cShadingLanguage420PackTests.cpp
+  Copyright (c) 2014-2016 The Khronos Group Inc.
+
+external/openglcts/modules/gl/gl4cShadingLanguage420PackTests.hpp
+  Copyright (c) 2014-2016 The Khronos Group Inc.
+
+external/openglcts/modules/gl/gl4cSparseBufferTests.cpp
+  Copyright (c) 2015-2016 The Khronos Group Inc.
+
+external/openglcts/modules/gl/gl4cSparseBufferTests.hpp
+  Copyright (c) 2015-2016 The Khronos Group Inc.
+
+external/openglcts/modules/gl/gl4cSparseTexture2Tests.cpp
+  Copyright (c) 2016 The Khronos Group Inc.
+
+external/openglcts/modules/gl/gl4cSparseTexture2Tests.hpp
+  Copyright (c) 2016 The Khronos Group Inc.
+
+external/openglcts/modules/gl/gl4cSparseTextureClampTests.cpp
+  Copyright (c) 2016 The Khronos Group Inc.
+
+external/openglcts/modules/gl/gl4cSparseTextureClampTests.hpp
+  Copyright (c) 2016 The Khronos Group Inc.
+
+external/openglcts/modules/gl/gl4cSparseTextureTests.cpp
+  Copyright (c) 2016 The Khronos Group Inc.
+
+external/openglcts/modules/gl/gl4cSparseTextureTests.hpp
+  Copyright (c) 2016 The Khronos Group Inc.
+
+external/openglcts/modules/gl/gl4cSpirvExtensionsTests.cpp
+  Copyright (c) 2017 The Khronos Group Inc.
+
+external/openglcts/modules/gl/gl4cStencilTexturingTests.cpp
+  Copyright (c) 2015-2016 The Khronos Group Inc.
+
+external/openglcts/modules/gl/gl4cSyncTests.cpp
+  Copyright (c) 2015-2016 The Khronos Group Inc.
+
+external/openglcts/modules/gl/gl4cTextureBarrierTests.cpp
+  Copyright (c) 2014-2016 The Khronos Group Inc.
+
+external/openglcts/modules/gl/gl4cTextureBufferTests.cpp
+  Copyright (c) 2025 The Khronos Group Inc.
+
+external/openglcts/modules/gl/gl4cTextureBufferTests.hpp
+  Copyright (c) 2025 The Khronos Group Inc.
+
+external/openglcts/modules/gl/gl4cTextureGatherTests.cpp
+  Copyright (c) 2014-2016 The Khronos Group Inc.
+
+external/openglcts/modules/gl/gl4cTextureQueryLevelsTests.cpp
+  Copyright (c) 2025 The Khronos Group Inc.
+
+external/openglcts/modules/gl/gl4cTextureQueryLevelsTests.hpp
+  Copyright (c) 2025 The Khronos Group Inc.
+
+external/openglcts/modules/gl/gl4cTextureQueryLodTests.cpp
+  Copyright (c) 2025 The Khronos Group Inc.
+
+external/openglcts/modules/gl/gl4cTextureQueryLodTests.hpp
+  Copyright (c) 2025 The Khronos Group Inc.
+
+external/openglcts/modules/gl/gl4cTextureViewTests.cpp
+  Copyright (c) 2014-2016 The Khronos Group Inc.
+
+external/openglcts/modules/gl/gl4cVertexAttrib64BitTest.cpp
+  Copyright (c) 2014-2016 The Khronos Group Inc.
+
+external/openglcts/modules/gl/gl4cVertexAttribBindingTests.cpp
+  Copyright (c) 2014-2016 The Khronos Group Inc.
+
+external/openglcts/modules/gles2/es2cTexture3DTests.cpp
+  Copyright (c) 2017 The Khronos Group Inc.
+
+external/openglcts/modules/gles3/es3cCopyTexImageConversionsTests.cpp
+  Copyright (c) 2018 The Khronos Group Inc.
+
+external/openglcts/modules/gles3/es3cDriverErrorTests.cpp
+  Copyright (c) 2024 Google Inc.
+  Copyright (c) 2024 The Khronos Group Inc.
+
+external/openglcts/modules/gles3/es3cNumberParsingTests.cpp
+  Copyright (c) 2020 Google Inc.
+  Copyright (c) 2020 The Khronos Group Inc.
+
+external/openglcts/modules/gles31/es31cArrayOfArraysTests.cpp
+  Copyright (c) 2014-2016 The Khronos Group Inc.
+
+external/openglcts/modules/gles31/es31cArrayOfArraysTests.hpp
+  Copyright (c) 2014-2016 The Khronos Group Inc.
+
+external/openglcts/modules/gles31/es31cComputeShaderTests.cpp
+  Copyright (c) 2014-2016 The Khronos Group Inc.
+
+external/openglcts/modules/gles31/es31cExplicitUniformLocationTest.cpp
+  Copyright (c) 2014-2016 The Khronos Group Inc.
+
+external/openglcts/modules/gles31/es31cFramebufferNoAttachmentsTests.cpp
+  Copyright (c) 2014-2016 The Khronos Group Inc.
+
+external/openglcts/modules/gles31/es31cLayoutBindingTests.cpp
+  Copyright (c) 2014-2016 The Khronos Group Inc.
+
+external/openglcts/modules/gles31/es31cProgramInterfaceQueryTests.cpp
+  Copyright (c) 2014-2016 The Khronos Group Inc.
+
+external/openglcts/modules/gles31/es31cSampleShadingTests.cpp
+  Copyright (c) 2014-2016 The Khronos Group Inc.
+
+external/openglcts/modules/gles31/es31cSeparateShaderObjsTests.cpp
+  Copyright (c) 2014-2016 The Khronos Group Inc.
+
+external/openglcts/modules/gles31/es31cShaderAtomicCountersTests.cpp
+  Copyright (c) 2014-2016 The Khronos Group Inc.
+
+external/openglcts/modules/gles31/es31cShaderBitfieldOperationTests.cpp
+  Copyright (c) 2014-2016 The Khronos Group Inc.
+
+external/openglcts/modules/gles31/es31cShaderImageSizeTests.cpp
+  Copyright (c) 2014-2016 The Khronos Group Inc.
+
+external/openglcts/modules/gles31/es31cTextureGatherTests.cpp
+  Copyright (c) 2014-2016 The Khronos Group Inc.
+
+external/openglcts/modules/gles31/es31cTextureStorageMultisampleDependenciesTests.cpp
+  Copyright (c) 2014-2016 The Khronos Group Inc.
+
+external/openglcts/modules/gles31/es31cTextureStorageMultisampleFunctionalTests.cpp
+  Copyright (c) 2014-2016 The Khronos Group Inc.
+
+external/openglcts/modules/gles31/es31cTextureStorageMultisampleGLCoverageTests.cpp
+  Copyright (c) 2014-2016 The Khronos Group Inc.
+
+external/openglcts/modules/gles31/es31cTextureStorageMultisampleGetActiveUniformTests.cpp
+  Copyright (c) 2014-2016 The Khronos Group Inc.
+
+external/openglcts/modules/gles31/es31cTextureStorageMultisampleGetMultisamplefvTests.cpp
+  Copyright (c) 2014-2016 The Khronos Group Inc.
+
+external/openglcts/modules/gles31/es31cTextureStorageMultisampleGetTexLevelParameterifvTests.cpp
+  Copyright (c) 2014-2016 The Khronos Group Inc.
+
+external/openglcts/modules/gles31/es31cTextureStorageMultisampleSampleMaskiTests.cpp
+  Copyright (c) 2014-2016 The Khronos Group Inc.
+
+external/openglcts/modules/gles31/es31cTextureStorageMultisampleTexStorage2DMultisampleTests.cpp
+  Copyright (c) 2014-2016 The Khronos Group Inc.
+
+external/openglcts/modules/gles31/es31cTextureStorageMultisampleTexStorage3DMultisampleTests.cpp
+  Copyright (c) 2014-2016 The Khronos Group Inc.
+
+external/openglcts/modules/gles31/es31cVertexAttribBindingTests.cpp
+  Copyright (c) 2014-2016 The Khronos Group Inc.
+
+external/openglcts/modules/gles32/es32cCopyImageTests.cpp
+  Copyright (c) 2017 The Khronos Group Inc.
+
+external/openglcts/modules/glesext/disjoint_timer_query/esextcDisjointTimerQueryBase.hpp
+  Copyright (c) 2021 The Khronos Group Inc.
+  Copyright (c) 2021 Google LLC
+
+external/openglcts/modules/glesext/disjoint_timer_query/esextcDisjointTimerQueryHandleReuse.cpp
+  Copyright (c) 2021 The Khronos Group Inc.
+  Copyright (c) 2021 Google LLC
+
+external/openglcts/modules/glesext/draw_buffers_indexed/esextcDrawBuffersIndexedBase.hpp
+  Copyright (c) 2015-2016 The Khronos Group Inc.
+
+external/openglcts/modules/glesext/draw_buffers_indexed/esextcDrawBuffersIndexedBlending.cpp
+  Copyright (c) 2015-2016 The Khronos Group Inc.
+
+external/openglcts/modules/glesext/draw_buffers_indexed/esextcDrawBuffersIndexedColorMasks.cpp
+  Copyright (c) 2015-2016 The Khronos Group Inc.
+
+external/openglcts/modules/glesext/draw_buffers_indexed/esextcDrawBuffersIndexedCoverage.cpp
+  Copyright (c) 2015-2016 The Khronos Group Inc.
+
+external/openglcts/modules/glesext/draw_buffers_indexed/esextcDrawBuffersIndexedDefaultState.cpp
+  Copyright (c) 2015-2016 The Khronos Group Inc.
+
+external/openglcts/modules/glesext/draw_buffers_indexed/esextcDrawBuffersIndexedNegative.cpp
+  Copyright (c) 2015-2016 The Khronos Group Inc.
+
+external/openglcts/modules/glesext/draw_buffers_indexed/esextcDrawBuffersIndexedSetGet.cpp
+  Copyright (c) 2015-2016 The Khronos Group Inc.
+
+external/openglcts/modules/glesext/draw_elements_base_vertex/esextcDrawElementsBaseVertexTests.cpp
+  Copyright (c) 2014-2016 The Khronos Group Inc.
+
+external/openglcts/modules/glesext/draw_elements_base_vertex/esextcDrawElementsBaseVertexTests.hpp
+  Copyright (c) 2014-2016 The Khronos Group Inc.
+
+external/openglcts/modules/glesext/fragment_shading_rate/esextcFragmentShadingRateAttachmentTests.cpp
+  Copyright (c) 2022-2022 The Khronos Group Inc.
+
+external/openglcts/modules/glesext/fragment_shading_rate/esextcFragmentShadingRateBasic.cpp
+  Copyright (c) 2022-2022 The Khronos Group Inc.
+
+external/openglcts/modules/glesext/fragment_shading_rate/esextcFragmentShadingRateCombinedTests.cpp
+  Copyright (c) 2022-2022 The Khronos Group Inc.
+
+external/openglcts/modules/glesext/fragment_shading_rate/esextcFragmentShadingRateErrors.cpp
+  Copyright (c) 2022-2022 The Khronos Group Inc.
+
+external/openglcts/modules/glesext/geometry_shader/esextcGeometryShaderAPI.cpp
+  Copyright (c) 2015-2016 The Khronos Group Inc.
+
+external/openglcts/modules/glesext/geometry_shader/esextcGeometryShaderAdjacency.cpp
+  Copyright (c) 2014-2016 The Khronos Group Inc.
+
+external/openglcts/modules/glesext/geometry_shader/esextcGeometryShaderBlitting.cpp
+  Copyright (c) 2014-2016 The Khronos Group Inc.
+
+external/openglcts/modules/glesext/geometry_shader/esextcGeometryShaderBlitting.hpp
+  Copyright (c) 2014-2016 The Khronos Group Inc.
+
+external/openglcts/modules/glesext/geometry_shader/esextcGeometryShaderClipping.cpp
+  Copyright (c) 2014-2016 The Khronos Group Inc.
+
+external/openglcts/modules/glesext/geometry_shader/esextcGeometryShaderConstantVariables.cpp
+  Copyright (c) 2014-2016 The Khronos Group Inc.
+
+external/openglcts/modules/glesext/geometry_shader/esextcGeometryShaderInput.cpp
+  Copyright (c) 2014-2016 The Khronos Group Inc.
+
+external/openglcts/modules/glesext/geometry_shader/esextcGeometryShaderLayeredFBO.cpp
+  Copyright (c) 2015-2016 The Khronos Group Inc.
+
+external/openglcts/modules/glesext/geometry_shader/esextcGeometryShaderLayeredFramebuffer.cpp
+  Copyright (c) 2014-2016 The Khronos Group Inc.
+
+external/openglcts/modules/glesext/geometry_shader/esextcGeometryShaderLayeredRendering.cpp
+  Copyright (c) 2014-2016 The Khronos Group Inc.
+
+external/openglcts/modules/glesext/geometry_shader/esextcGeometryShaderLayeredRenderingBoundaryCondition.cpp
+  Copyright (c) 2014-2016 The Khronos Group Inc.
+
+external/openglcts/modules/glesext/geometry_shader/esextcGeometryShaderLayeredRenderingBoundaryCondition.hpp
+  Copyright (c) 2014-2016 The Khronos Group Inc.
+
+external/openglcts/modules/glesext/geometry_shader/esextcGeometryShaderLayeredRenderingFBONoAttachment.cpp
+  Copyright (c) 2014-2016 The Khronos Group Inc.
+
+external/openglcts/modules/glesext/geometry_shader/esextcGeometryShaderLimits.cpp
+  Copyright (c) 2014-2016 The Khronos Group Inc.
+
+external/openglcts/modules/glesext/geometry_shader/esextcGeometryShaderLimits.hpp
+  Copyright (c) 2014-2016 The Khronos Group Inc.
+
+external/openglcts/modules/glesext/geometry_shader/esextcGeometryShaderLinking.cpp
+  Copyright (c) 2015-2016 The Khronos Group Inc.
+
+external/openglcts/modules/glesext/geometry_shader/esextcGeometryShaderNonarrayInput.cpp
+  Copyright (c) 2014-2016 The Khronos Group Inc.
+
+external/openglcts/modules/glesext/geometry_shader/esextcGeometryShaderOutput.cpp
+  Copyright (c) 2014-2016 The Khronos Group Inc.
+
+external/openglcts/modules/glesext/geometry_shader/esextcGeometryShaderOutput.hpp
+  Copyright (c) 2014-2016 The Khronos Group Inc.
+
+external/openglcts/modules/glesext/geometry_shader/esextcGeometryShaderPrimitiveCounter.cpp
+  Copyright (c) 2014-2016 The Khronos Group Inc.
+
+external/openglcts/modules/glesext/geometry_shader/esextcGeometryShaderPrimitiveCounter.hpp
+  Copyright (c) 2014-2016 The Khronos Group Inc.
+
+external/openglcts/modules/glesext/geometry_shader/esextcGeometryShaderPrimitiveQueries.cpp
+  Copyright (c) 2014-2016 The Khronos Group Inc.
+
+external/openglcts/modules/glesext/geometry_shader/esextcGeometryShaderPrimitiveQueries.hpp
+  Copyright (c) 2014-2016 The Khronos Group Inc.
+
+external/openglcts/modules/glesext/geometry_shader/esextcGeometryShaderProgramResource.cpp
+  Copyright (c) 2014-2016 The Khronos Group Inc.
+
+external/openglcts/modules/glesext/geometry_shader/esextcGeometryShaderQualifiers.cpp
+  Copyright (c) 2015-2016 The Khronos Group Inc.
+
+external/openglcts/modules/glesext/geometry_shader/esextcGeometryShaderRendering.cpp
+  Copyright (c) 2014-2016 The Khronos Group Inc.
+
+external/openglcts/modules/glesext/geometry_shader/esextcGeometryShaderRendering.hpp
+  Copyright (c) 2014-2016 The Khronos Group Inc.
+
+external/openglcts/modules/glesext/gpu_shader5/esextcGPUShader5AtomicCountersArrayIndexing.cpp
+  Copyright (c) 2014-2016 The Khronos Group Inc.
+
+external/openglcts/modules/glesext/gpu_shader5/esextcGPUShader5FmaAccuracy.cpp
+  Copyright (c) 2014-2016 The Khronos Group Inc.
+
+external/openglcts/modules/glesext/gpu_shader5/esextcGPUShader5FmaPrecision.cpp
+  Copyright (c) 2014-2016 The Khronos Group Inc.
+
+external/openglcts/modules/glesext/gpu_shader5/esextcGPUShader5ImagesArrayIndexing.cpp
+  Copyright (c) 2014-2016 The Khronos Group Inc.
+
+external/openglcts/modules/glesext/gpu_shader5/esextcGPUShader5PreciseQualifier.cpp
+  Copyright (c) 2014-2016 The Khronos Group Inc.
+
+external/openglcts/modules/glesext/gpu_shader5/esextcGPUShader5SSBOArrayIndexing.cpp
+  Copyright (c) 2014-2016 The Khronos Group Inc.
+
+external/openglcts/modules/glesext/gpu_shader5/esextcGPUShader5SamplerArrayIndexing.cpp
+  Copyright (c) 2014-2016 The Khronos Group Inc.
+
+external/openglcts/modules/glesext/gpu_shader5/esextcGPUShader5TextureGatherOffset.cpp
+  Copyright (c) 2014-2016 The Khronos Group Inc.
+
+external/openglcts/modules/glesext/gpu_shader5/esextcGPUShader5TextureGatherOffset.hpp
+  Copyright (c) 2014-2016 The Khronos Group Inc.
+
+external/openglcts/modules/glesext/gpu_shader5/esextcGPUShader5UniformBlocksArrayIndexing.cpp
+  Copyright (c) 2014-2016 The Khronos Group Inc.
+
+external/openglcts/modules/glesext/tessellation_shader/esextcTessellationShaderBarrier.cpp
+  Copyright (c) 2014-2016 The Khronos Group Inc.
+
+external/openglcts/modules/glesext/tessellation_shader/esextcTessellationShaderBarrier.hpp
+  Copyright (c) 2014-2016 The Khronos Group Inc.
+
+external/openglcts/modules/glesext/tessellation_shader/esextcTessellationShaderErrors.cpp
+  Copyright (c) 2014-2016 The Khronos Group Inc.
+
+external/openglcts/modules/glesext/tessellation_shader/esextcTessellationShaderErrors.hpp
+  Copyright (c) 2014-2016 The Khronos Group Inc.
+
+external/openglcts/modules/glesext/tessellation_shader/esextcTessellationShaderInvariance.cpp
+  Copyright (c) 2014-2016 The Khronos Group Inc.
+
+external/openglcts/modules/glesext/tessellation_shader/esextcTessellationShaderInvariance.hpp
+  Copyright (c) 2014-2016 The Khronos Group Inc.
+
+external/openglcts/modules/glesext/tessellation_shader/esextcTessellationShaderIsolines.cpp
+  Copyright (c) 2014-2016 The Khronos Group Inc.
+
+external/openglcts/modules/glesext/tessellation_shader/esextcTessellationShaderMaxPatchVertices.cpp
+  Copyright (c) 2014-2016 The Khronos Group Inc.
+
+external/openglcts/modules/glesext/tessellation_shader/esextcTessellationShaderPoints.cpp
+  Copyright (c) 2014-2016 The Khronos Group Inc.
+
+external/openglcts/modules/glesext/tessellation_shader/esextcTessellationShaderPrimitiveCoverage.cpp
+  Copyright (c) 2014-2016 The Khronos Group Inc.
+
+external/openglcts/modules/glesext/tessellation_shader/esextcTessellationShaderProgramInterfaces.cpp
+  Copyright (c) 2014-2016 The Khronos Group Inc.
+
+external/openglcts/modules/glesext/tessellation_shader/esextcTessellationShaderProperties.cpp
+  Copyright (c) 2014-2016 The Khronos Group Inc.
+
+external/openglcts/modules/glesext/tessellation_shader/esextcTessellationShaderQuads.cpp
+  Copyright (c) 2014-2016 The Khronos Group Inc.
+
+external/openglcts/modules/glesext/tessellation_shader/esextcTessellationShaderTCTE.cpp
+  Copyright (c) 2014-2016 The Khronos Group Inc.
+
+external/openglcts/modules/glesext/tessellation_shader/esextcTessellationShaderTessellation.cpp
+  Copyright (c) 2014-2016 The Khronos Group Inc.
+
+external/openglcts/modules/glesext/tessellation_shader/esextcTessellationShaderTriangles.cpp
+  Copyright (c) 2014-2016 The Khronos Group Inc.
+
+external/openglcts/modules/glesext/tessellation_shader/esextcTessellationShaderVertexOrdering.cpp
+  Copyright (c) 2014-2016 The Khronos Group Inc.
+
+external/openglcts/modules/glesext/tessellation_shader/esextcTessellationShaderVertexSpacing.cpp
+  Copyright (c) 2014-2016 The Khronos Group Inc.
+
+external/openglcts/modules/glesext/tessellation_shader/esextcTessellationShaderWinding.cpp
+  Copyright (c) 2017 The Khronos Group Inc.
+
+external/openglcts/modules/glesext/tessellation_shader/esextcTessellationShaderXFB.cpp
+  Copyright (c) 2014-2016 The Khronos Group Inc.
+
+external/openglcts/modules/glesext/texture_border_clamp/esextcTextureBorderClampBase.hpp
+  Copyright (c) 2014-2016 The Khronos Group Inc.
+
+external/openglcts/modules/glesext/texture_border_clamp/esextcTextureBorderClampGetTexParameterIErrors.cpp
+  Copyright (c) 2014-2016 The Khronos Group Inc.
+
+external/openglcts/modules/glesext/texture_border_clamp/esextcTextureBorderClampParameterBorderColorError.cpp
+  Copyright (c) 2014-2016 The Khronos Group Inc.
+
+external/openglcts/modules/glesext/texture_border_clamp/esextcTextureBorderClampParameterTextureBorderColor.cpp
+  Copyright (c) 2014-2016 The Khronos Group Inc.
+
+external/openglcts/modules/glesext/texture_border_clamp/esextcTextureBorderClampSamplerParameterIError.cpp
+  Copyright (c) 2014-2016 The Khronos Group Inc.
+
+external/openglcts/modules/glesext/texture_border_clamp/esextcTextureBorderClampSamplerParameterIWithWrongPname.cpp
+  Copyright (c) 2014-2016 The Khronos Group Inc.
+
+external/openglcts/modules/glesext/texture_border_clamp/esextcTextureBorderClampSamplingTexture.cpp
+  Copyright (c) 2014-2016 The Khronos Group Inc.
+
+external/openglcts/modules/glesext/texture_border_clamp/esextcTextureBorderClampTexParameterIErrors.cpp
+  Copyright (c) 2014-2016 The Khronos Group Inc.
+
+external/openglcts/modules/glesext/texture_buffer/esextcTextureBufferActiveUniformValidation.cpp
+  Copyright (c) 2014-2016 The Khronos Group Inc.
+
+external/openglcts/modules/glesext/texture_buffer/esextcTextureBufferActiveUniformValidation.hpp
+  Copyright (c) 2014-2016 The Khronos Group Inc.
+
+external/openglcts/modules/glesext/texture_buffer/esextcTextureBufferAtomicFunctions.cpp
+  Copyright (c) 2014-2016 The Khronos Group Inc.
+
+external/openglcts/modules/glesext/texture_buffer/esextcTextureBufferBufferParameters.cpp
+  Copyright (c) 2014-2016 The Khronos Group Inc.
+
+external/openglcts/modules/glesext/texture_buffer/esextcTextureBufferErrors.cpp
+  Copyright (c) 2014-2016 The Khronos Group Inc.
+
+external/openglcts/modules/glesext/texture_buffer/esextcTextureBufferMAXSizeValidation.cpp
+  Copyright (c) 2014-2016 The Khronos Group Inc.
+
+external/openglcts/modules/glesext/texture_buffer/esextcTextureBufferOperations.cpp
+  Copyright (c) 2014-2016 The Khronos Group Inc.
+
+external/openglcts/modules/glesext/texture_buffer/esextcTextureBufferOperations.hpp
+  Copyright (c) 2014-2016 The Khronos Group Inc.
+
+external/openglcts/modules/glesext/texture_buffer/esextcTextureBufferParamValueIntToFloatConversion.cpp
+  Copyright (c) 2014-2016 The Khronos Group Inc.
+
+external/openglcts/modules/glesext/texture_buffer/esextcTextureBufferParameters.cpp
+  Copyright (c) 2014-2016 The Khronos Group Inc.
+
+external/openglcts/modules/glesext/texture_buffer/esextcTextureBufferPrecision.cpp
+  Copyright (c) 2014-2016 The Khronos Group Inc.
+
+external/openglcts/modules/glesext/texture_buffer/esextcTextureBufferTextureBufferRange.cpp
+  Copyright (c) 2014-2016 The Khronos Group Inc.
+
+external/openglcts/modules/glesext/texture_cube_map_array/esextcTextureCubeMapArrayColorDepthAttachments.cpp
+  Copyright (c) 2014-2016 The Khronos Group Inc.
+
+external/openglcts/modules/glesext/texture_cube_map_array/esextcTextureCubeMapArrayETC2Support.cpp
+  Copyright (c) 2017 The Khronos Group Inc.
+
+external/openglcts/modules/glesext/texture_cube_map_array/esextcTextureCubeMapArrayFBOIncompleteness.cpp
+  Copyright (c) 2014-2016 The Khronos Group Inc.
+
+external/openglcts/modules/glesext/texture_cube_map_array/esextcTextureCubeMapArrayGenerateMipMap.cpp
+  Copyright (c) 2014-2016 The Khronos Group Inc.
+
+external/openglcts/modules/glesext/texture_cube_map_array/esextcTextureCubeMapArrayGetterCalls.cpp
+  Copyright (c) 2014-2016 The Khronos Group Inc.
+
+external/openglcts/modules/glesext/texture_cube_map_array/esextcTextureCubeMapArrayImageOperations.cpp
+  Copyright (c) 2014-2016 The Khronos Group Inc.
+
+external/openglcts/modules/glesext/texture_cube_map_array/esextcTextureCubeMapArrayImageTextureSize.cpp
+  Copyright (c) 2014-2016 The Khronos Group Inc.
+
+external/openglcts/modules/glesext/texture_cube_map_array/esextcTextureCubeMapArrayImageTextureSize.hpp
+  Copyright (c) 2014-2016 The Khronos Group Inc.
+
+external/openglcts/modules/glesext/texture_cube_map_array/esextcTextureCubeMapArraySampling.cpp
+  Copyright (c) 2014-2016 The Khronos Group Inc.
+
+external/openglcts/modules/glesext/texture_cube_map_array/esextcTextureCubeMapArrayStencilAttachments.cpp
+  Copyright (c) 2014-2016 The Khronos Group Inc.
+
+external/openglcts/modules/glesext/texture_cube_map_array/esextcTextureCubeMapArraySubImage3D.cpp
+  Copyright (c) 2014-2016 The Khronos Group Inc.
+
+external/openglcts/modules/glesext/texture_cube_map_array/esextcTextureCubeMapArrayTex3DValidation.cpp
+  Copyright (c) 2014-2016 The Khronos Group Inc.
+
+external/openglcts/modules/glesext/texture_shadow_lod/esextcTextureShadowLodFunctionsTest.cpp
+  Copyright (c) 2014-2019 The Khronos Group Inc.
+
+external/vulkancts/modules/vulkan/amber/vktAmberTestCase.hpp
+  Copyright (c) 2019 Google LLC
+  Copyright (c) 2019 The Khronos Group Inc.
+
+external/vulkancts/modules/vulkan/api/vktApiBufferMarkerTests.cpp
+  Copyright (c) 2019 Advanced Micro Devices, Inc.
+  Copyright (c) 2019 The Khronos Group Inc.
+
+external/vulkancts/modules/vulkan/api/vktApiBufferMemoryRequirementsTests.cpp
+  Copyright (c) 2021 The Khronos Group Inc.
+  Copyright (c) 2016 The Android Open Source Project
+
+external/vulkancts/modules/vulkan/api/vktApiBufferTests.cpp
+  Copyright (c) 2015 The Khronos Group Inc.
+  Copyright (c) 2015 Samsung Electronics Co., Ltd.
+
+external/vulkancts/modules/vulkan/api/vktApiBufferViewAccessTests.cpp
+  Copyright (c) 2015 The Khronos Group Inc.
+  Copyright (c) 2015 Samsung Electronics Co., Ltd.
+
+external/vulkancts/modules/vulkan/api/vktApiBufferViewCreateTests.cpp
+  Copyright (c) 2015 The Khronos Group Inc.
+  Copyright (c) 2015 Samsung Electronics Co., Ltd.
+
+external/vulkancts/modules/vulkan/api/vktApiCommandBuffersTests.cpp
+  Copyright (c) 2015 The Khronos Group Inc.
+  Copyright (c) 2015 Samsung Electronics Co., Ltd.
+  Copyright (c) 2015 Google Inc.
+
+external/vulkancts/modules/vulkan/api/vktApiCopiesAndBlittingTests.cpp
+  Copyright (c) 2015-2020 The Khronos Group Inc.
+  Copyright (c) 2020 Google Inc.
+  Copyright (c) 2015-2016 Samsung Electronics Co., Ltd.
+
+external/vulkancts/modules/vulkan/api/vktApiDSColorBitCopyTests.cpp
+  Copyright (c) 2024 The Khronos Group Inc.
+  Copyright (c) 2024 Valve Corporation.
+
+external/vulkancts/modules/vulkan/api/vktApiDebugUtilsTests.cpp
+  Copyright (c) 2024 The Khronos Group Inc.
+
+external/vulkancts/modules/vulkan/api/vktApiDescriptorPoolTests.cpp
+  Copyright (c) 2016 Google Inc.
+
+external/vulkancts/modules/vulkan/api/vktApiDescriptorSetTests.cpp
+  Copyright (c) 2018 Google Inc.
+
+external/vulkancts/modules/vulkan/api/vktApiDeviceDrmPropertiesTests.cpp
+  Copyright (c) 2021 NVIDIA, Inc.
+  Copyright (c) 2021 The Khronos Group Inc.
+
+external/vulkancts/modules/vulkan/api/vktApiDeviceInitializationTests.cpp
+  Copyright (c) 2015 Google Inc.
+
+external/vulkancts/modules/vulkan/api/vktApiDriverPropertiesTests.cpp
+  Copyright (c) 2018 Advanced Micro Devices, Inc.
+  Copyright (c) 2018 The Khronos Group Inc.
+
+external/vulkancts/modules/vulkan/api/vktApiExtensionDuplicatesTests.cpp
+  Copyright (c) 2023 The Khronos Group Inc.
+
+external/vulkancts/modules/vulkan/api/vktApiExternalMemoryTests.cpp
+  Copyright (c) 2016 Google Inc.
+
+external/vulkancts/modules/vulkan/api/vktApiFeatureInfo.cpp
+  Copyright (c) 2015 Google Inc.
+
+external/vulkancts/modules/vulkan/api/vktApiFillBufferTests.cpp
+  Copyright (c) 2016 The Khronos Group Inc.
+  Copyright (c) 2016 Samsung Electronics Co., Ltd.
+
+external/vulkancts/modules/vulkan/api/vktApiFormatPropertiesExtendedKHRtests.cpp
+  Copyright (c) 2021 The Khronos Group Inc.
+  Copyright (c) 2016 The Android Open Source Project
+
+external/vulkancts/modules/vulkan/api/vktApiFragmentShaderOutputTests.cpp
+  Copyright (c) 2023 The Khronos Group Inc.
+
+external/vulkancts/modules/vulkan/api/vktApiFrameBoundaryTests.cpp
+  Copyright (c) 2019 Advanced Micro Devices, Inc.
+  Copyright (c) 2019 The Khronos Group Inc.
+
+external/vulkancts/modules/vulkan/api/vktApiGetMemoryCommitment.cpp
+  Copyright (c) 2016 The Khronos Group Inc.
+  Copyright (c) 2016 Samsung Electronics Co., Ltd.
+
+external/vulkancts/modules/vulkan/api/vktApiGranularityTests.cpp
+  Copyright (c) 2015 The Khronos Group Inc.
+  Copyright (c) 2015 Samsung Electronics Co., Ltd.
+
+external/vulkancts/modules/vulkan/api/vktApiImageClearingTests.cpp
+  Copyright (c) 2016 The Khronos Group Inc.
+  Copyright (c) 2016 Samsung Electronics Co., Ltd.
+
+external/vulkancts/modules/vulkan/api/vktApiImageCompressionControlTests.cpp
+  Copyright (c) 2022 Khronos Group
+
+external/vulkancts/modules/vulkan/api/vktApiMaintenance3Check.cpp
+  Copyright (c) 2017 Khronos Group
+
+external/vulkancts/modules/vulkan/api/vktApiMaintenance6Check.cpp
+  Copyright (c) 2017 Khronos Group
+
+external/vulkancts/modules/vulkan/api/vktApiMaintenance7Tests.cpp
+  Copyright (c) 2024 Khronos Group
+  Copyright (c) 2024 LunarG, Inc.
+  Copyright (c) 2024 Google LLC
+
+external/vulkancts/modules/vulkan/api/vktApiMemoryRequirementInvarianceTests.cpp
+  Copyright (c) 2018 Google Inc.
+  Copyright (c) 2018 The Khronos Group Inc.
+
+external/vulkancts/modules/vulkan/api/vktApiNullHandleTests.cpp
+  Copyright (c) 2016 The Khronos Group Inc.
+
+external/vulkancts/modules/vulkan/api/vktApiObjectManagementTests.cpp
+  Copyright (c) 2015 Google Inc.
+
+external/vulkancts/modules/vulkan/api/vktApiPhysicalDeviceFormatPropertiesMaint5Tests.cpp
+  Copyright (c) 2017 Khronos Group
+
+external/vulkancts/modules/vulkan/api/vktApiPipelineTests.cpp
+  Copyright (c) 2018 The Khronos Group Inc.
+  Copyright (c) 2018 Google Inc.
+
+external/vulkancts/modules/vulkan/api/vktApiSmokeTests.cpp
+  Copyright (c) 2015 Google Inc.
+
+external/vulkancts/modules/vulkan/api/vktApiToolingInfoTests.cpp
+  Copyright (c) 2019 Advanced Micro Devices, Inc.
+  Copyright (c) 2019 The Khronos Group Inc.
+
+external/vulkancts/modules/vulkan/api/vktApiVersionCheck.cpp
+  Copyright (c) 2019 Google Inc.
+  Copyright (c) 2019 Khronos Group
+
+external/vulkancts/modules/vulkan/binding_model/vktBindingBufferDeviceAddressTests.cpp
+  Copyright (c) 2017-2019 The Khronos Group Inc.
+  Copyright (c) 2018-2019 NVIDIA Corporation
+
+external/vulkancts/modules/vulkan/binding_model/vktBindingDescriptorBufferTests.cpp
+  Copyright (c) 2022 The Khronos Group Inc.
+  Copyright (C) 2022 Advanced Micro Devices, Inc.
+
+external/vulkancts/modules/vulkan/binding_model/vktBindingDescriptorCombinationTests.cpp
+  Copyright (c) 2024 The Khronos Group Inc.
+
+external/vulkancts/modules/vulkan/binding_model/vktBindingDescriptorCopyTests.cpp
+  Copyright (c) 2019 Google Inc.
+  Copyright (c) 2019 The Khronos Group Inc.
+
+external/vulkancts/modules/vulkan/binding_model/vktBindingDescriptorInlineUniformTests.cpp
+  Copyright (c) 2024 The Khronos Group Inc.
+
+external/vulkancts/modules/vulkan/binding_model/vktBindingDescriptorSetRandomTests.cpp
+  Copyright (c) 2017 The Khronos Group Inc.
+  Copyright (c) 2018 NVIDIA Corporation
+
+external/vulkancts/modules/vulkan/binding_model/vktBindingDescriptorUpdateASTests.cpp
+  Copyright (c) 2021 The Khronos Group Inc.
+
+external/vulkancts/modules/vulkan/binding_model/vktBindingDescriptorUpdateTests.cpp
+  Copyright (c) 2018 Google Inc.
+
+external/vulkancts/modules/vulkan/binding_model/vktBindingMutableTests.cpp
+  Copyright (c) 2021 The Khronos Group Inc.
+  Copyright (c) 2021 Valve Corporation.
+
+external/vulkancts/modules/vulkan/binding_model/vktBindingShaderAccessTests.cpp
+  Copyright (c) 2015 Google Inc.
+
+external/vulkancts/modules/vulkan/binding_model/vktBindingStagesTests.cpp
+  Copyright (c) 2023 Nintendo
+
+external/vulkancts/modules/vulkan/binding_model/vktBindingUnusedInvalidDescriptorTests.cpp
+  Copyright (c) 2017-2019 The Khronos Group Inc.
+  Copyright (c) 2018-2019 NVIDIA Corporation
+
+external/vulkancts/modules/vulkan/clipping/vktClippingTests.cpp
+  Copyright (c) 2016 The Khronos Group Inc.
+
+external/vulkancts/modules/vulkan/compute/vktComputeBasicComputeShaderTests.cpp
+  Copyright (c) 2019 The Khronos Group Inc.
+  Copyright (c) 2019 The Android Open Source Project
+  Copyright (c) 2023 LunarG, Inc.
+  Copyright (c) 2023 Nintendo
+
+external/vulkancts/modules/vulkan/compute/vktComputeCooperativeMatrixOpConstantNullTests.cpp
+  Copyright (c) 2019 The Khronos Group Inc.
+  Copyright (c) 2018-2024 NVIDIA Corporation
+  Copyright (c) 2023 LunarG, Inc.
+  Copyright (c) 2023 Nintendo
+
+external/vulkancts/modules/vulkan/compute/vktComputeCooperativeMatrixTests.cpp
+  Copyright (c) 2019 The Khronos Group Inc.
+  Copyright (c) 2018-2024 NVIDIA Corporation
+  Copyright (c) 2023 LunarG, Inc.
+  Copyright (c) 2023 Nintendo
+
+external/vulkancts/modules/vulkan/compute/vktComputeIndirectComputeDispatchTests.cpp
+  Copyright (c) 2016 The Khronos Group Inc.
+  Copyright (c) 2016 The Android Open Source Project
+  Copyright (c) 2023 LunarG, Inc.
+  Copyright (c) 2023 Nintendo
+
+external/vulkancts/modules/vulkan/compute/vktComputeShaderBuiltinVarTests.cpp
+  Copyright (c) 2016 The Khronos Group Inc.
+  Copyright (c) 2016 The Android Open Source Project
+  Copyright (c) 2023 LunarG, Inc.
+  Copyright (c) 2023 Nintendo
+
+external/vulkancts/modules/vulkan/compute/vktComputeWorkgroupMemoryExplicitLayoutTests.cpp
+  Copyright (c) 2020 The Khronos Group Inc.
+  Copyright (c) 2020 Intel Corporation
+  Copyright (c) 2023 LunarG, Inc.
+  Copyright (c) 2023 Nintendo
+
+external/vulkancts/modules/vulkan/compute/vktComputeZeroInitializeWorkgroupMemoryTests.cpp
+  Copyright (c) 2020 The Khronos Group Inc.
+  Copyright (c) 2020 Google LLC.
+  Copyright (c) 2023 LunarG, Inc.
+  Copyright (c) 2023 Nintendo
+
+external/vulkancts/modules/vulkan/conditional_rendering/vktConditionalDispatchTests.cpp
+  Copyright (c) 2018 The Khronos Group Inc.
+  Copyright (c) 2018 Danylo Piliaiev <danylo.piliaiev@gmail.com>
+
+external/vulkancts/modules/vulkan/conditional_rendering/vktConditionalDrawAndClearTests.cpp
+  Copyright (c) 2018 The Khronos Group Inc.
+  Copyright (c) 2018 Intel Corporation
+
+external/vulkancts/modules/vulkan/conditional_rendering/vktConditionalIgnoreTests.cpp
+  Copyright (c) 2022 The Khronos Group Inc.
+  Copyright (c) 2022 Valve Corporation.
+
+external/vulkancts/modules/vulkan/cooperative_vector/vktCooperativeVectorBasicTests.cpp
+  Copyright (c) 2019 The Khronos Group Inc.
+  Copyright (c) 2018-2024 NVIDIA Corporation
+
+external/vulkancts/modules/vulkan/cooperative_vector/vktCooperativeVectorMatrixTests.cpp
+  Copyright (c) 2019 The Khronos Group Inc.
+  Copyright (c) 2018-2024 NVIDIA Corporation
+
+external/vulkancts/modules/vulkan/descriptor_indexing/vktDescriptorSetsIndexingTests.cpp
+  Copyright (c) 2019 The Khronos Group Inc.
+
+external/vulkancts/modules/vulkan/device_generated_commands/vktDGCComputeConditionalTests.cpp
+  Copyright (c) 2024 The Khronos Group Inc.
+  Copyright (c) 2024 Valve Corporation.
+
+external/vulkancts/modules/vulkan/device_generated_commands/vktDGCComputeConditionalTestsExt.cpp
+  Copyright (c) 2024 The Khronos Group Inc.
+  Copyright (c) 2024 Valve Corporation.
+
+external/vulkancts/modules/vulkan/device_generated_commands/vktDGCComputeGetInfoTests.cpp
+  Copyright (c) 2024 The Khronos Group Inc.
+  Copyright (c) 2024 Valve Corporation.
+
+external/vulkancts/modules/vulkan/device_generated_commands/vktDGCComputeGetInfoTestsExt.cpp
+  Copyright (c) 2024 The Khronos Group Inc.
+  Copyright (c) 2024 Valve Corporation.
+
+external/vulkancts/modules/vulkan/device_generated_commands/vktDGCComputeLayoutTests.cpp
+  Copyright (c) 2024 The Khronos Group Inc.
+  Copyright (c) 2024 Valve Corporation.
+
+external/vulkancts/modules/vulkan/device_generated_commands/vktDGCComputeLayoutTestsExt.cpp
+  Copyright (c) 2024 The Khronos Group Inc.
+  Copyright (c) 2024 Valve Corporation.
+
+external/vulkancts/modules/vulkan/device_generated_commands/vktDGCComputeMiscTests.cpp
+  Copyright (c) 2024 The Khronos Group Inc.
+  Copyright (c) 2024 Valve Corporation.
+
+external/vulkancts/modules/vulkan/device_generated_commands/vktDGCComputeMiscTestsExt.cpp
+  Copyright (c) 2024 The Khronos Group Inc.
+  Copyright (c) 2024 Valve Corporation.
+
+external/vulkancts/modules/vulkan/device_generated_commands/vktDGCComputePreprocessTests.cpp
+  Copyright (c) 2024 The Khronos Group Inc.
+  Copyright (c) 2024 Valve Corporation.
+
+external/vulkancts/modules/vulkan/device_generated_commands/vktDGCComputePreprocessTestsExt.cpp
+  Copyright (c) 2024 The Khronos Group Inc.
+  Copyright (c) 2024 Valve Corporation.
+
+external/vulkancts/modules/vulkan/device_generated_commands/vktDGCComputeSmokeTests.cpp
+  Copyright (c) 2024 The Khronos Group Inc.
+  Copyright (c) 2024 Valve Corporation.
+
+external/vulkancts/modules/vulkan/device_generated_commands/vktDGCComputeSmokeTestsExt.cpp
+  Copyright (c) 2024 The Khronos Group Inc.
+  Copyright (c) 2024 Valve Corporation.
+
+external/vulkancts/modules/vulkan/device_generated_commands/vktDGCComputeSubgroupTests.cpp
+  Copyright (c) 2024 The Khronos Group Inc.
+  Copyright (c) 2024 Valve Corporation.
+
+external/vulkancts/modules/vulkan/device_generated_commands/vktDGCComputeSubgroupTestsExt.cpp
+  Copyright (c) 2024 The Khronos Group Inc.
+  Copyright (c) 2024 Valve Corporation.
+
+external/vulkancts/modules/vulkan/device_generated_commands/vktDGCGraphicsConditionalTestsExt.cpp
+  Copyright (c) 2024 The Khronos Group Inc.
+  Copyright (c) 2024 Valve Corporation.
+
+external/vulkancts/modules/vulkan/device_generated_commands/vktDGCGraphicsDrawCountTestsExt.cpp
+  Copyright (c) 2024 The Khronos Group Inc.
+  Copyright (c) 2024 Valve Corporation.
+
+external/vulkancts/modules/vulkan/device_generated_commands/vktDGCGraphicsDrawTestsExt.cpp
+  Copyright (c) 2024 The Khronos Group Inc.
+  Copyright (c) 2024 Valve Corporation.
+
+external/vulkancts/modules/vulkan/device_generated_commands/vktDGCGraphicsMeshConditionalTestsExt.cpp
+  Copyright (c) 2024 The Khronos Group Inc.
+  Copyright (c) 2024 Valve Corporation.
+
+external/vulkancts/modules/vulkan/device_generated_commands/vktDGCGraphicsMeshTestsExt.cpp
+  Copyright (c) 2024 The Khronos Group Inc.
+  Copyright (c) 2024 Valve Corporation.
+
+external/vulkancts/modules/vulkan/device_generated_commands/vktDGCGraphicsMiscTestsExt.cpp
+  Copyright (c) 2024 The Khronos Group Inc.
+  Copyright (c) 2024 Valve Corporation.
+
+external/vulkancts/modules/vulkan/device_generated_commands/vktDGCGraphicsTessStateTestsExt.cpp
+  Copyright (c) 2024 The Khronos Group Inc.
+  Copyright (c) 2024 Valve Corporation.
+
+external/vulkancts/modules/vulkan/device_generated_commands/vktDGCGraphicsXfbTestsExt.cpp
+  Copyright (c) 2024 The Khronos Group Inc.
+  Copyright (c) 2024 Valve Corporation.
+
+external/vulkancts/modules/vulkan/device_generated_commands/vktDGCPropertyTests.cpp
+  Copyright (c) 2024 The Khronos Group Inc.
+  Copyright (c) 2024 Valve Corporation.
+
+external/vulkancts/modules/vulkan/device_generated_commands/vktDGCPropertyTestsExt.cpp
+  Copyright (c) 2024 The Khronos Group Inc.
+  Copyright (c) 2024 Valve Corporation.
+
+external/vulkancts/modules/vulkan/device_generated_commands/vktDGCRayTracingTestsExt.cpp
+  Copyright (c) 2024 The Khronos Group Inc.
+  Copyright (c) 2024 Valve Corporation.
+
+external/vulkancts/modules/vulkan/device_group/vktDeviceGroupRendering.cpp
+  Copyright (c) 2017 The Khronos Group Inc.
+  Copyright (c) 2017 Nvidia Corporation
+
+external/vulkancts/modules/vulkan/draw/vktDrawAhbExternalFormatResolveTests.cpp
+  Copyright (c) 2023 The Khronos Group Inc.
+  Copyright (c) 2023 Google Inc.
+  Copyright (c) 2023 LunarG, Inc.
+
+external/vulkancts/modules/vulkan/draw/vktDrawAhbTests.cpp
+  Copyright (c) 2020 The Khronos Group Inc.
+  Copyright (c) 2020 Google LLC
+  Copyright (c) 2016 Samsung Electronics Co., Ltd.
+
+external/vulkancts/modules/vulkan/draw/vktDrawBaseClass.hpp
+  Copyright (c) 2015 The Khronos Group Inc.
+  Copyright (c) 2015 Intel Corporation
+
+external/vulkancts/modules/vulkan/draw/vktDrawDepthClampTests.cpp
+  Copyright (c) 2016 The Khronos Group Inc.
+  Copyright (c) 2017 Google Inc.
+
+external/vulkancts/modules/vulkan/draw/vktDrawDifferingInterpolationTests.cpp
+  Copyright (c) 2017 The Khronos Group Inc.
+  Copyright (c) 2017 Google Inc.
+  Copyright (c) 2017 Samsung Electronics Co., Ltd.
+
+external/vulkancts/modules/vulkan/draw/vktDrawDiscardRectanglesTests.cpp
+  Copyright (c) 2019 Valve Corporation.
+  Copyright (c) 2019 The Khronos Group Inc.
+
+external/vulkancts/modules/vulkan/draw/vktDrawExplicitVertexParameterTests.cpp
+  Copyright (c) 2020 The Khronos Group Inc.
+  Copyright (c) 2020 Valve Corporation
+
+external/vulkancts/modules/vulkan/draw/vktDrawIndexedTest.cpp
+  Copyright (c) 2015 The Khronos Group Inc.
+  Copyright (c) 2015 Intel Corporation
+
+external/vulkancts/modules/vulkan/draw/vktDrawInstancedTests.cpp
+  Copyright (c) 2016 The Khronos Group Inc.
+  Copyright (c) 2016 Samsung Electronics Co., Ltd.
+
+external/vulkancts/modules/vulkan/draw/vktDrawInvertedDepthRangesTests.cpp
+  Copyright (c) 2016 The Khronos Group Inc.
+  Copyright (c) 2017 Google Inc.
+
+external/vulkancts/modules/vulkan/draw/vktDrawMultiExtTests.cpp
+  Copyright (c) 2021 The Khronos Group Inc.
+  Copyright (c) 2021 Valve Corporation.
+
+external/vulkancts/modules/vulkan/draw/vktDrawMultipleClearsWithinRenderPass.cpp
+  Copyright (c) 2020 Google Inc.
+  Copyright (c) 2020 The Khronos Group Inc.
+
+external/vulkancts/modules/vulkan/draw/vktDrawMultipleInterpolationTests.cpp
+  Copyright (c) 2019 The Khronos Group Inc.
+  Copyright (c) 2019 Google Inc.
+
+external/vulkancts/modules/vulkan/draw/vktDrawMultisampleLinearInterpolationTests.cpp
+  Copyright (c) 2022 The Khronos Group Inc.
+  Copyright (c) 2022 Google Inc.
+
+external/vulkancts/modules/vulkan/draw/vktDrawNegativeViewportHeightTests.cpp
+  Copyright (c) 2016 The Khronos Group Inc.
+
+external/vulkancts/modules/vulkan/draw/vktDrawNonLineTests.cpp
+  Copyright (c) 2024 The Khronos Group Inc.
+  Copyright (c) 2024 Valve Corporation.
+
+external/vulkancts/modules/vulkan/draw/vktDrawPointClampTests.cpp
+  Copyright (c) 2023 The Khronos Group Inc.
+
+external/vulkancts/modules/vulkan/draw/vktDrawSampleAttributeTests.cpp
+  Copyright (c) 2022,2023 The Khronos Group Inc.
+  Copyright (c) 2022,2023 Valve Corporation.
+
+external/vulkancts/modules/vulkan/draw/vktDrawScissorTests.cpp
+  Copyright (c) 2019 Google Inc.
+  Copyright (c) 2019 The Khronos Group Inc.
+
+external/vulkancts/modules/vulkan/draw/vktDrawShaderDrawParametersTests.cpp
+  Copyright (c) 2016 The Khronos Group Inc.
+
+external/vulkancts/modules/vulkan/draw/vktDrawShaderViewportIndexTests.cpp
+  Copyright (c) 2018 The Khronos Group Inc.
+  Copyright (c) 2018 The Android Open Source Project
+
+external/vulkancts/modules/vulkan/draw/vktDrawTestCaseUtil.hpp
+  Copyright (c) 2015 The Khronos Group Inc.
+  Copyright (c) 2015 Intel Corporation
+
+external/vulkancts/modules/vulkan/draw/vktDrawVertexAttribDivisorTests.cpp
+  Copyright (c) 2023 LunarG, Inc.
+  Copyright (c) 2023 Google LLC
+
+external/vulkancts/modules/vulkan/dynamic_state/vktDynamicStateComputeTests.cpp
+  Copyright (c) 2021 The Khronos Group Inc.
+  Copyright (c) 2021 Valve Corporation.
+  Copyright (c) 2023 LunarG, Inc.
+  Copyright (c) 2023 Nintendo
+
+external/vulkancts/modules/vulkan/dynamic_state/vktDynamicStateDSTests.cpp
+  Copyright (c) 2015 The Khronos Group Inc.
+  Copyright (c) 2015 Intel Corporation
+  Copyright (c) 2023 LunarG, Inc.
+  Copyright (c) 2023 Nintendo
+
+external/vulkancts/modules/vulkan/dynamic_state/vktDynamicStateDiscardTests.cpp
+  Copyright (c) 2022 LunarG, Inc.
+  Copyright (c) 2022 The Khronos Group Inc.
+  Copyright (c) 2022 Google LLC
+  Copyright (c) 2023 Nintendo
+
+external/vulkancts/modules/vulkan/dynamic_state/vktDynamicStateGeneralTests.cpp
+  Copyright (c) 2015 The Khronos Group Inc.
+  Copyright (c) 2015 Intel Corporation
+  Copyright (c) 2023 LunarG, Inc.
+  Copyright (c) 2023 Nintendo
+
+external/vulkancts/modules/vulkan/dynamic_state/vktDynamicStateInheritanceTests.cpp
+  Copyright (c) 2020 NVIDIA Corporation
+  Copyright (c) 2023 LunarG, Inc.
+  Copyright (c) 2023 Nintendo
+
+external/vulkancts/modules/vulkan/dynamic_state/vktDynamicStateLineWidthTests.cpp
+  Copyright (c) 2023 The Khronos Group Inc.
+
+external/vulkancts/modules/vulkan/dynamic_state/vktDynamicStateRSTests.cpp
+  Copyright (c) 2015 The Khronos Group Inc.
+  Copyright (c) 2015 Intel Corporation
+  Copyright (c) 2023 LunarG, Inc.
+  Copyright (c) 2023 Nintendo
+
+external/vulkancts/modules/vulkan/fragment_ops/vktFragmentOperationsEarlyFragmentTests.cpp
+  Copyright 2014 The Android Open Source Project
+  Copyright (c) 2015 The Khronos Group Inc.
+
+external/vulkancts/modules/vulkan/fragment_ops/vktFragmentOperationsOcclusionQueryTests.cpp
+  Copyright (c) 2021 The Khronos Group Inc.
+  Copyright (c) 2021 Google Inc.
+
+external/vulkancts/modules/vulkan/fragment_ops/vktFragmentOperationsScissorMultiViewportTests.cpp
+  Copyright (c) 2016 The Khronos Group Inc.
+  Copyright (c) 2014 The Android Open Source Project
+
+external/vulkancts/modules/vulkan/fragment_ops/vktFragmentOperationsScissorTests.cpp
+  Copyright (c) 2016 The Khronos Group Inc.
+  Copyright (c) 2014 The Android Open Source Project
+
+external/vulkancts/modules/vulkan/fragment_ops/vktFragmentOperationsTransientAttachmentTests.cpp
+  Copyright (c) 2021 The Khronos Group Inc.
+  Copyright (c) 2021 Google Inc.
+
+external/vulkancts/modules/vulkan/fragment_shader_interlock/vktFragmentShaderInterlockBasic.cpp
+  Copyright (c) 2017-2019 The Khronos Group Inc.
+  Copyright (c) 2018-2019 NVIDIA Corporation
+
+external/vulkancts/modules/vulkan/fragment_shading_barycentric/vktFragmentShadingBarycentricTests.cpp
+  Copyright (c) 2021 The Khronos Group Inc.
+
+external/vulkancts/modules/vulkan/fragment_shading_rate/vktAttachmentRateTests.cpp
+  Copyright (c) 2021 The Khronos Group Inc.
+
+external/vulkancts/modules/vulkan/fragment_shading_rate/vktFragmentShadingRateBasic.cpp
+  Copyright (c) 2017-2019 The Khronos Group Inc.
+  Copyright (c) 2018-2020 NVIDIA Corporation
+  Copyright (c) 2023 LunarG, Inc.
+  Copyright (c) 2023 Nintendo
+
+external/vulkancts/modules/vulkan/fragment_shading_rate/vktFragmentShadingRateMiscTests.cpp
+  Copyright (c) 2023 The Khronos Group Inc.
+  Copyright (c) 2023 Valve Corporation.
+
+external/vulkancts/modules/vulkan/fragment_shading_rate/vktFragmentShadingRatePixelConsistency.cpp
+  Copyright (c) 2017-2020 The Khronos Group Inc.
+  Copyright (c) 2020 AMD
+
+external/vulkancts/modules/vulkan/fragment_shading_rate/vktFragmentShadingRateTests.cpp
+  Copyright (c) 2015 Google Inc.
+  Copyright (c) 2019-2020 NVIDIA Corporation
+
+external/vulkancts/modules/vulkan/geometry/vktGeometryBasicGeometryShaderTests.cpp
+  Copyright (c) 2016 The Khronos Group Inc.
+  Copyright (c) 2016 The Android Open Source Project
+
+external/vulkancts/modules/vulkan/geometry/vktGeometryBuiltinVariableGeometryShaderTests.cpp
+  Copyright (c) 2025 The Khronos Group Inc.
+  Copyright (c) 2025 The Android Open Source Project
+
+external/vulkancts/modules/vulkan/geometry/vktGeometryEmitGeometryShaderTests.cpp
+  Copyright (c) 2016 The Khronos Group Inc.
+  Copyright (c) 2016 The Android Open Source Project
+
+external/vulkancts/modules/vulkan/geometry/vktGeometryInputGeometryShaderTests.cpp
+  Copyright (c) 2016 The Khronos Group Inc.
+  Copyright (c) 2016 The Android Open Source Project
+
+external/vulkancts/modules/vulkan/geometry/vktGeometryInstancedRenderingTests.cpp
+  Copyright (c) 2016 The Khronos Group Inc.
+  Copyright (c) 2014 The Android Open Source Project
+
+external/vulkancts/modules/vulkan/geometry/vktGeometryLayeredRenderingTests.cpp
+  Copyright (c) 2019 Google Inc.
+  Copyright (c) 2019 The Khronos Group Inc.
+  Copyright (c) 2014 The Android Open Source Project
+
+external/vulkancts/modules/vulkan/geometry/vktGeometryVaryingGeometryShaderTests.cpp
+  Copyright (c) 2016 The Khronos Group Inc.
+  Copyright (c) 2016 The Android Open Source Project
+
+external/vulkancts/modules/vulkan/image/vktImage2dArrayCompatibleTests.cpp
+  Copyright (c) 2025 LunarG, Inc.
+  Copyright (c) 2025 Nintendo
+
+external/vulkancts/modules/vulkan/image/vktImageAstcDecodeModeTests.cpp
+  Copyright (c) 2019 The Khronos Group Inc.
+
+external/vulkancts/modules/vulkan/image/vktImageAtomicOperationTests.cpp
+  Copyright (c) 2016-2024 The Khronos Group Inc.
+
+external/vulkancts/modules/vulkan/image/vktImageCompressionTranscodingSupport.cpp
+  Copyright (c) 2017 The Khronos Group Inc.
+
+external/vulkancts/modules/vulkan/image/vktImageConcurrentCopyTests.cpp
+  Copyright (c) 2024 Google LLC.
+
+external/vulkancts/modules/vulkan/image/vktImageDepthStencilDescriptorTests.cpp
+  Copyright (c) 2021 The Khronos Group Inc.
+  Copyright (c) 2021 Valve Corporation.
+
+external/vulkancts/modules/vulkan/image/vktImageDepthStencilSeparateTests.cpp
+  Copyright (c) 2024 The Khronos Group Inc.
+  Copyright (c) 2024 Valve Corporation.
+
+external/vulkancts/modules/vulkan/image/vktImageExtendedUsageBitTests.cpp
+  Copyright (c) 2016 The Khronos Group Inc.
+  Copyright (c) 2016 The Android Open Source Project
+
+external/vulkancts/modules/vulkan/image/vktImageGeneralLayoutTests.cpp
+  Copyright (c) 2025 LunarG, Inc.
+  Copyright (c) 2025 Google LLC
+
+external/vulkancts/modules/vulkan/image/vktImageHostImageCopyTests.cpp
+  Copyright (c) 2022 The Khronos Group Inc.
+  Copyright (c) 2022 Google LLC.
+  Copyright (c) 2022 LunarG, Inc.
+
+external/vulkancts/modules/vulkan/image/vktImageLoadStoreTests.cpp
+  Copyright (c) 2016 The Khronos Group Inc.
+  Copyright (c) 2016 The Android Open Source Project
+
+external/vulkancts/modules/vulkan/image/vktImageMisalignedCubeTests.cpp
+  Copyright (c) 2019 The Khronos Group Inc.
+  Copyright (c) 2019 The Android Open Source Project
+
+external/vulkancts/modules/vulkan/image/vktImageMismatchedFormatsTests.cpp
+  Copyright (c) 2020 The Khronos Group Inc.
+  Copyright (c) 2016 The Android Open Source Project
+
+external/vulkancts/modules/vulkan/image/vktImageMismatchedWriteOpTests.cpp
+  Copyright (c) 2021 The Khronos Group Inc.
+  Copyright (c) 2016 The Android Open Source Project
+
+external/vulkancts/modules/vulkan/image/vktImageMultisampleLoadStoreTests.cpp
+  Copyright (c) 2016 The Khronos Group Inc.
+  Copyright (c) 2016 The Android Open Source Project
+
+external/vulkancts/modules/vulkan/image/vktImageMutableTests.cpp
+  Copyright (c) 2017 The Khronos Group Inc.
+
+external/vulkancts/modules/vulkan/image/vktImageNonUniformOffsetSampleTests.cpp
+  Copyright (c) 2024 The Khronos Group Inc.
+  Copyright (c) 2024 Valve Corporation.
+
+external/vulkancts/modules/vulkan/image/vktImageQualifiersTests.cpp
+  Copyright (c) 2016 The Khronos Group Inc.
+  Copyright (c) 2016 The Android Open Source Project
+
+external/vulkancts/modules/vulkan/image/vktImageSampleCompressedTextureTests.cpp
+  Copyright (c) 2021-2022 Google LLC.
+
+external/vulkancts/modules/vulkan/image/vktImageSampleDrawnCubeFaceTests.cpp
+  Copyright (c) 2021 Google LLC.
+
+external/vulkancts/modules/vulkan/image/vktImageSizeTests.cpp
+  Copyright (c) 2016 The Khronos Group Inc.
+  Copyright (c) 2016 The Android Open Source Project
+
+external/vulkancts/modules/vulkan/image/vktImageSubresourceLayoutTests.cpp
+  Copyright (c) 2020 The Khronos Group Inc.
+  Copyright (c) 2020 Valve Corporation.
+
+external/vulkancts/modules/vulkan/image/vktImageTranscodingSupportTests.cpp
+  Copyright (c) 2017 The Khronos Group Inc.
+
+external/vulkancts/modules/vulkan/image/vktImageTransfer.cpp
+  Copyright (c) 2022 Google Inc.
+
+external/vulkancts/modules/vulkan/imageless_framebuffer/vktImagelessFramebufferTests.cpp
+  Copyright (c) 2019 The Khronos Group Inc.
+
+external/vulkancts/modules/vulkan/memory/vktMemoryAddressBindingTests.cpp
+  Copyright (c) 2020 The Khronos Group Inc.
+  Copyright (c) 2020 Google LLC
+
+external/vulkancts/modules/vulkan/memory/vktMemoryAllocationTests.cpp
+  Copyright (c) 2015 Google Inc.
+
+external/vulkancts/modules/vulkan/memory/vktMemoryBindingTests.cpp
+  Copyright (c) 2017 The Khronos Group Inc.
+
+external/vulkancts/modules/vulkan/memory/vktMemoryConcurrentAccessTests.cpp
+  Copyright (c) 2024 The Khronos Group Inc.
+
+external/vulkancts/modules/vulkan/memory/vktMemoryDeviceMemoryReportTests.cpp
+  Copyright (c) 2020 The Khronos Group Inc.
+  Copyright (c) 2020 Google LLC
+
+external/vulkancts/modules/vulkan/memory/vktMemoryExternalMemoryHostTests.cpp
+  Copyright (c) 2018 The Khronos Group Inc.
+  Copyright (c) 2018 Intel Corporation
+
+external/vulkancts/modules/vulkan/memory/vktMemoryMappingTests.cpp
+  Copyright (c) 2015 Google Inc.
+
+external/vulkancts/modules/vulkan/memory/vktMemoryPipelineBarrierTests.cpp
+  Copyright (c) 2015 Google Inc.
+
+external/vulkancts/modules/vulkan/memory/vktMemoryRequirementsTests.cpp
+  Copyright (c) 2016 The Khronos Group Inc.
+
+external/vulkancts/modules/vulkan/memory/vktMemoryZeroInitializeDeviceMemoryTests.cpp
+  Copyright (c) 2025 The Khronos Group Inc.
+  Copyright (c) 2025 Valve Corporation.
+
+external/vulkancts/modules/vulkan/memory_model/vktMemoryModelMessagePassing.cpp
+  Copyright (c) 2017-2019 The Khronos Group Inc.
+  Copyright (c) 2018-2019 NVIDIA Corporation
+
+external/vulkancts/modules/vulkan/memory_model/vktMemoryModelPadding.cpp
+  Copyright (c) 2019 The Khronos Group Inc.
+  Copyright (c) 2019 Valve Corporation.
+
+external/vulkancts/modules/vulkan/memory_model/vktMemoryModelSharedLayout.cpp
+  Copyright (c) 2021 The Khronos Group Inc.
+  Copyright (c) 2021 Google LLC.
+
+external/vulkancts/modules/vulkan/memory_model/vktMemoryModelSharedLayoutCase.hpp
+  Copyright (c) 2021 The Khronos Group Inc.
+  Copyright (c) 2021 Google LLC.
+
+external/vulkancts/modules/vulkan/mesh_shader/vktMeshShaderApiTests.cpp
+  Copyright (c) 2021 The Khronos Group Inc.
+  Copyright (c) 2021 Valve Corporation.
+
+external/vulkancts/modules/vulkan/mesh_shader/vktMeshShaderApiTestsEXT.cpp
+  Copyright (c) 2021 The Khronos Group Inc.
+  Copyright (c) 2021 Valve Corporation.
+
+external/vulkancts/modules/vulkan/mesh_shader/vktMeshShaderBuiltinTests.cpp
+  Copyright (c) 2021 The Khronos Group Inc.
+  Copyright (c) 2021 Valve Corporation.
+
+external/vulkancts/modules/vulkan/mesh_shader/vktMeshShaderBuiltinTestsEXT.cpp
+  Copyright (c) 2021 The Khronos Group Inc.
+  Copyright (c) 2021 Valve Corporation.
+
+external/vulkancts/modules/vulkan/mesh_shader/vktMeshShaderConditionalRenderingTestsEXT.cpp
+  Copyright (c) 2022 The Khronos Group Inc.
+  Copyright (c) 2022 Valve Corporation.
+
+external/vulkancts/modules/vulkan/mesh_shader/vktMeshShaderInOutTestsEXT.cpp
+  Copyright (c) 2022 The Khronos Group Inc.
+  Copyright (c) 2022 Valve Corporation.
+
+external/vulkancts/modules/vulkan/mesh_shader/vktMeshShaderMiscTests.cpp
+  Copyright (c) 2021 The Khronos Group Inc.
+  Copyright (c) 2021 Valve Corporation.
+
+external/vulkancts/modules/vulkan/mesh_shader/vktMeshShaderMiscTestsEXT.cpp
+  Copyright (c) 2021 The Khronos Group Inc.
+  Copyright (c) 2021 Valve Corporation.
+
+external/vulkancts/modules/vulkan/mesh_shader/vktMeshShaderPropertyTests.cpp
+  Copyright (c) 2021 The Khronos Group Inc.
+  Copyright (c) 2021 Valve Corporation.
+
+external/vulkancts/modules/vulkan/mesh_shader/vktMeshShaderPropertyTestsEXT.cpp
+  Copyright (c) 2022 The Khronos Group Inc.
+  Copyright (c) 2022 Valve Corporation.
+
+external/vulkancts/modules/vulkan/mesh_shader/vktMeshShaderProvokingVertexTestsEXT.cpp
+  Copyright (c) 2021 The Khronos Group Inc.
+  Copyright (c) 2021 Valve Corporation.
+
+external/vulkancts/modules/vulkan/mesh_shader/vktMeshShaderQueryTestsEXT.cpp
+  Copyright (c) 2021 The Khronos Group Inc.
+  Copyright (c) 2021 Valve Corporation.
+
+external/vulkancts/modules/vulkan/mesh_shader/vktMeshShaderSmokeTests.cpp
+  Copyright (c) 2021 The Khronos Group Inc.
+  Copyright (c) 2021 Valve Corporation.
+
+external/vulkancts/modules/vulkan/mesh_shader/vktMeshShaderSmokeTestsEXT.cpp
+  Copyright (c) 2021 The Khronos Group Inc.
+  Copyright (c) 2021 Valve Corporation.
+  Copyright (c) 2023 LunarG, Inc.
+  Copyright (c) 2023 Nintendo
+
+external/vulkancts/modules/vulkan/mesh_shader/vktMeshShaderSyncTests.cpp
+  Copyright (c) 2021 The Khronos Group Inc.
+  Copyright (c) 2021 Valve Corporation.
+
+external/vulkancts/modules/vulkan/mesh_shader/vktMeshShaderSyncTestsEXT.cpp
+  Copyright (c) 2021 The Khronos Group Inc.
+  Copyright (c) 2021 Valve Corporation.
+
+external/vulkancts/modules/vulkan/modifiers/vktModifiersTests.cpp
+  Copyright (c) 2020 The Khronos Group Inc.
+
+external/vulkancts/modules/vulkan/multiview/vktMultiViewRenderTests.cpp
+  Copyright (c) 2017 The Khronos Group Inc.
+
+external/vulkancts/modules/vulkan/pipeline/vktPipelineAttachmentFeedbackLoopLayoutTests.cpp
+  Copyright (c) 2021 Valve Corporation.
+  Copyright (c) 2023 LunarG, Inc.
+  Copyright (c) 2023 Nintendo
+
+external/vulkancts/modules/vulkan/pipeline/vktPipelineBinaryTests.cpp
+  Copyright (c) 2024 The Khronos Group Inc.
+
+external/vulkancts/modules/vulkan/pipeline/vktPipelineBindPointTests.cpp
+  Copyright (c) 2021 The Khronos Group Inc.
+  Copyright (c) 2021 Valve Corporation.
+  Copyright (c) 2023 LunarG, Inc.
+  Copyright (c) 2023 Nintendo
+
+external/vulkancts/modules/vulkan/pipeline/vktPipelineBindVertexBuffers2Tests.cpp
+  Copyright (c) 2023 The Khronos Group Inc.
+  Copyright (c) 2023 LunarG, Inc.
+  Copyright (c) 2023 Google LLC
+
+external/vulkancts/modules/vulkan/pipeline/vktPipelineBlendOperationAdvancedTests.cpp
+  Copyright (c) 2019 Valve Corporation.
+  Copyright (c) 2019 The Khronos Group Inc.
+  Copyright (c) 2023 LunarG, Inc.
+  Copyright (c) 2023 Nintendo
+
+external/vulkancts/modules/vulkan/pipeline/vktPipelineBlendTests.cpp
+  Copyright (c) 2015 The Khronos Group Inc.
+  Copyright (c) 2015 Imagination Technologies Ltd.
+  Copyright (c) 2023 LunarG, Inc.
+  Copyright (c) 2023 Nintendo
+
+external/vulkancts/modules/vulkan/pipeline/vktPipelineCacheTests.cpp
+  Copyright (c) 2015 The Khronos Group Inc.
+  Copyright (c) 2015 ARM Ltd.
+  Copyright (c) 2023 LunarG, Inc.
+  Copyright (c) 2023 Nintendo
+
+external/vulkancts/modules/vulkan/pipeline/vktPipelineColorWriteEnableTests.cpp
+  Copyright (c) 2021 The Khronos Group Inc.
+  Copyright (c) 2023 LunarG, Inc.
+  Copyright (c) 2023 Nintendo
+
+external/vulkancts/modules/vulkan/pipeline/vktPipelineCreationCacheControlTests.cpp
+  Copyright (c) 2020 The Khronos Group Inc.
+  Copyright (c) 2020 Advanced Micro Devices, Inc.
+
+external/vulkancts/modules/vulkan/pipeline/vktPipelineCreationFeedbackTests.cpp
+  Copyright (c) 2019 The Khronos Group Inc.
+  Copyright (c) 2019 Valve Corporation.
+  Copyright (c) 2023 LunarG, Inc.
+  Copyright (c) 2023 Nintendo
+
+external/vulkancts/modules/vulkan/pipeline/vktPipelineDepthRangeUnrestrictedTests.cpp
+  Copyright (c) 2019 The Khronos Group Inc.
+  Copyright (c) 2019 Valve Corporation.
+  Copyright (c) 2023 LunarG, Inc.
+  Copyright (c) 2023 Nintendo
+
+external/vulkancts/modules/vulkan/pipeline/vktPipelineDepthTests.cpp
+  Copyright (c) 2015 The Khronos Group Inc.
+  Copyright (c) 2015 Imagination Technologies Ltd.
+  Copyright (c) 2023 LunarG, Inc.
+  Copyright (c) 2023 Nintendo
+
+external/vulkancts/modules/vulkan/pipeline/vktPipelineDerivativeTests.cpp
+  Copyright (c) 2018 The Khronos Group Inc.
+  Copyright (c) 2018 Google Inc.
+
+external/vulkancts/modules/vulkan/pipeline/vktPipelineDescriptorLimitsTests.cpp
+  Copyright (c) 2022 The Khronos Group Inc.
+  Copyright (c) 2022 Google Inc.
+  Copyright (c) 2023 LunarG, Inc.
+  Copyright (c) 2023 Nintendo
+
+external/vulkancts/modules/vulkan/pipeline/vktPipelineDualBlendTests.cpp
+  Copyright (c) 2024 The Khronos Group Inc.
+
+external/vulkancts/modules/vulkan/pipeline/vktPipelineDynamicControlPoints.cpp
+  Copyright (c) 2022 The Khronos Group Inc.
+  Copyright (c) 2022 Valve Corporation.
+  Copyright (c) 2023 LunarG, Inc.
+  Copyright (c) 2023 Nintendo
+
+external/vulkancts/modules/vulkan/pipeline/vktPipelineDynamicOffsetTests.cpp
+  Copyright (c) 2018 The Khronos Group Inc.
+  Copyright (c) 2018 Google Inc.
+  Copyright (c) 2018 ARM Limited.
+  Copyright (c) 2023 LunarG, Inc.
+  Copyright (c) 2023 Nintendo
+
+external/vulkancts/modules/vulkan/pipeline/vktPipelineDynamicVertexAttributeTests.cpp
+  Copyright (c) 2023 The Khronos Group Inc.
+  Copyright (c) 2023 Google Inc.
+  Copyright (c) 2023 LunarG, Inc.
+
+external/vulkancts/modules/vulkan/pipeline/vktPipelineEarlyDestroyTests.cpp
+  Copyright (c) 2018 The Khronos Group Inc.
+  Copyright (c) 2018 Google Inc.
+  Copyright (c) 2023 LunarG, Inc.
+  Copyright (c) 2023 Nintendo
+
+external/vulkancts/modules/vulkan/pipeline/vktPipelineEmptyFSTests.cpp
+  Copyright (c) 2024 The Khronos Group Inc.
+  Copyright (c) 2024 Valve Corporation.
+
+external/vulkancts/modules/vulkan/pipeline/vktPipelineExecutablePropertiesTests.cpp
+  Copyright (c) 2019 The Khronos Group Inc.
+  Copyright (c) 2019 Intel Corporation.
+  Copyright (c) 2023 LunarG, Inc.
+  Copyright (c) 2023 Nintendo
+
+external/vulkancts/modules/vulkan/pipeline/vktPipelineExtendedDynamicStateMiscTests.cpp
+  Copyright (c) 2023 The Khronos Group Inc.
+  Copyright (c) 2023 Valve Corporation.
+
+external/vulkancts/modules/vulkan/pipeline/vktPipelineExtendedDynamicStateTests.cpp
+  Copyright (c) 2020 The Khronos Group Inc.
+  Copyright (c) 2020 Valve Corporation.
+  Copyright (c) 2023 LunarG, Inc.
+  Copyright (c) 2023 Nintendo
+
+external/vulkancts/modules/vulkan/pipeline/vktPipelineFramebufferAttachmentTests.cpp
+  Copyright (c) 2017 The Khronos Group Inc.
+  Copyright (c) 2023 LunarG, Inc.
+  Copyright (c) 2023 Nintendo
+
+external/vulkancts/modules/vulkan/pipeline/vktPipelineImage2DViewOf3DTests.cpp
+  Copyright (c) 2022 The Khronos Group Inc.
+  Copyright (c) 2022 Google LLC.
+  Copyright (c) 2023 LunarG, Inc.
+  Copyright (c) 2023 Nintendo
+
+external/vulkancts/modules/vulkan/pipeline/vktPipelineImageSlicedViewOf3DTests.cpp
+  Copyright (c) 2022 The Khronos Group Inc.
+  Copyright (c) 2022 Valve Corporation.
+
+external/vulkancts/modules/vulkan/pipeline/vktPipelineImageTests.cpp
+  Copyright (c) 2015 The Khronos Group Inc.
+  Copyright (c) 2015 Imagination Technologies Ltd.
+  Copyright (c) 2023 LunarG, Inc.
+  Copyright (c) 2023 Nintendo
+
+external/vulkancts/modules/vulkan/pipeline/vktPipelineImageViewTests.cpp
+  Copyright (c) 2015 The Khronos Group Inc.
+  Copyright (c) 2015 Imagination Technologies Ltd.
+  Copyright (c) 2023 LunarG, Inc.
+  Copyright (c) 2023 Nintendo
+
+external/vulkancts/modules/vulkan/pipeline/vktPipelineInputAssemblyTests.cpp
+  Copyright (c) 2015 The Khronos Group Inc.
+  Copyright (c) 2015 Imagination Technologies Ltd.
+  Copyright (c) 2023 LunarG, Inc.
+  Copyright (c) 2023 Nintendo
+
+external/vulkancts/modules/vulkan/pipeline/vktPipelineInputAttributeOffsetTests.cpp
+  Copyright (c) 2023 The Khronos Group Inc.
+  Copyright (c) 2023 Valve Corporation.
+
+external/vulkancts/modules/vulkan/pipeline/vktPipelineInterfaceMatchingTests.cpp
+  Copyright (c) 2021 The Khronos Group Inc.
+  Copyright (c) 2023 LunarG, Inc.
+  Copyright (c) 2023 Nintendo
+
+external/vulkancts/modules/vulkan/pipeline/vktPipelineLegacyAttrTests.cpp
+  Copyright (c) 2024 The Khronos Group Inc.
+  Copyright (c) 2024 Valve Corporation.
+
+external/vulkancts/modules/vulkan/pipeline/vktPipelineLibraryTests.cpp
+  Copyright (c) 2021 The Khronos Group Inc.
+  Copyright (c) 2023 LunarG, Inc.
+  Copyright (c) 2023 Nintendo
+
+external/vulkancts/modules/vulkan/pipeline/vktPipelineLogicOpTests.cpp
+  Copyright (c) 2020 The Khronos Group Inc.
+  Copyright (c) 2020 Valve Corporation.
+  Copyright (c) 2023 LunarG, Inc.
+  Copyright (c) 2023 Nintendo
+
+external/vulkancts/modules/vulkan/pipeline/vktPipelineMatchedAttachmentsTests.cpp
+  Copyright (c) 2018 The Khronos Group Inc.
+  Copyright (c) 2018 Google Inc.
+  Copyright (c) 2023 LunarG, Inc.
+  Copyright (c) 2023 Nintendo
+
+external/vulkancts/modules/vulkan/pipeline/vktPipelineMaxVaryingsTests.cpp
+  Copyright (c) 2019 The Khronos Group Inc.
+  Copyright (c) 2019 Valve Corporation.
+  Copyright (c) 2023 LunarG, Inc.
+  Copyright (c) 2023 Nintendo
+
+external/vulkancts/modules/vulkan/pipeline/vktPipelineMiscTests.cpp
+  Copyright (c) 2019 Google LLC
+  Copyright (c) 2019 The Khronos Group Inc.
+  Copyright (c) 2023 LunarG, Inc.
+  Copyright (c) 2023 Nintendo
+
+external/vulkancts/modules/vulkan/pipeline/vktPipelineMultisampleBase.hpp
+  Copyright (c) 2016 The Khronos Group Inc.
+  Copyright (c) 2023 LunarG, Inc.
+  Copyright (c) 2023 Nintendo
+
+external/vulkancts/modules/vulkan/pipeline/vktPipelineMultisampleImageTests.cpp
+  Copyright (c) 2016 The Khronos Group Inc.
+  Copyright (c) 2023 LunarG, Inc.
+  Copyright (c) 2023 Nintendo
+
+external/vulkancts/modules/vulkan/pipeline/vktPipelineMultisampleInterpolationTests.cpp
+  Copyright (c) 2016 The Khronos Group Inc.
+  Copyright (c) 2023 LunarG, Inc.
+  Copyright (c) 2023 Nintendo
+
+external/vulkancts/modules/vulkan/pipeline/vktPipelineMultisampleMixedAttachmentSamplesTests.cpp
+  Copyright (c) 2019 Advanced Micro Devices, Inc.
+  Copyright (c) 2019 The Khronos Group Inc.
+  Copyright (c) 2023 LunarG, Inc.
+  Copyright (c) 2023 Nintendo
+
+external/vulkancts/modules/vulkan/pipeline/vktPipelineMultisampleResolveRenderAreaTests.cpp
+  Copyright (c) 2022 The Khronos Group Inc.
+  Copyright (c) 2022 Google Inc.
+  Copyright (c) 2023 LunarG, Inc.
+  Copyright (c) 2023 Nintendo
+
+external/vulkancts/modules/vulkan/pipeline/vktPipelineMultisampleSampleLocationsExtTests.cpp
+  Copyright (c) 2017 Advanced Micro Devices, Inc.
+  Copyright (c) 2017 The Khronos Group Inc.
+  Copyright (c) 2023 LunarG, Inc.
+  Copyright (c) 2023 Nintendo
+
+external/vulkancts/modules/vulkan/pipeline/vktPipelineMultisampleShaderBuiltInTests.cpp
+  Copyright (c) 2016 The Khronos Group Inc.
+  Copyright (c) 2023 LunarG, Inc.
+  Copyright (c) 2023 Nintendo
+
+external/vulkancts/modules/vulkan/pipeline/vktPipelineMultisampleShaderFragmentMaskTests.cpp
+  Copyright (c) 2019 Advanced Micro Devices, Inc.
+  Copyright (c) 2019 The Khronos Group Inc.
+  Copyright (c) 2023 LunarG, Inc.
+  Copyright (c) 2023 Nintendo
+
+external/vulkancts/modules/vulkan/pipeline/vktPipelineMultisampleTests.cpp
+  Copyright (c) 2015 The Khronos Group Inc.
+  Copyright (c) 2015 Imagination Technologies Ltd.
+  Copyright (c) 2017 Google Inc.
+  Copyright (c) 2023 LunarG, Inc.
+  Copyright (c) 2023 Nintendo
+
+external/vulkancts/modules/vulkan/pipeline/vktPipelineMultisampledRenderToSingleSampledTests.cpp
+  Copyright (c) 2021 The Khronos Group Inc.
+  Copyright (c) 2023 LunarG, Inc.
+  Copyright (c) 2023 Nintendo
+
+external/vulkancts/modules/vulkan/pipeline/vktPipelineNoPositionTests.cpp
+  Copyright (c) 2020 The Khronos Group Inc.
+  Copyright (c) 2020 Valve Corporation.
+  Copyright (c) 2023 LunarG, Inc.
+  Copyright (c) 2023 Nintendo
+
+external/vulkancts/modules/vulkan/pipeline/vktPipelineNoQueuesTests.cpp
+  Copyright (c) 2019 The Khronos Group Inc.
+  Copyright (c) 2018-2025 NVIDIA Corporation
+
+external/vulkancts/modules/vulkan/pipeline/vktPipelinePushConstantTests.cpp
+  Copyright (c) 2015 The Khronos Group Inc.
+  Copyright (c) 2015 ARM Limited.
+  Copyright (c) 2023 LunarG, Inc.
+  Copyright (c) 2023 Nintendo
+
+external/vulkancts/modules/vulkan/pipeline/vktPipelinePushDescriptorTests.cpp
+  Copyright (c) 2018 The Khronos Group Inc.
+  Copyright (c) 2018 Google Inc.
+  Copyright (c) 2018 ARM Limited.
+  Copyright (c) 2023 LunarG, Inc.
+  Copyright (c) 2023 Nintendo
+
+external/vulkancts/modules/vulkan/pipeline/vktPipelineRenderToImageTests.cpp
+  Copyright (c) 2017 The Khronos Group Inc.
+  Copyright (c) 2023 LunarG, Inc.
+  Copyright (c) 2023 Nintendo
+
+external/vulkancts/modules/vulkan/pipeline/vktPipelineRobustnessCacheTests.cpp
+  Copyright (c) 2023 The Khronos Group Inc.
+  Copyright (c) 2023 Google LLC.
+  Copyright (c) 2023 LunarG, Inc.
+
+external/vulkancts/modules/vulkan/pipeline/vktPipelineSamplerBorderSwizzleTests.cpp
+  Copyright (c) 2021 The Khronos Group Inc.
+  Copyright (c) 2021 Valve Corporation.
+  Copyright (c) 2023 LunarG, Inc.
+  Copyright (c) 2023 Nintendo
+
+external/vulkancts/modules/vulkan/pipeline/vktPipelineSamplerTests.cpp
+  Copyright (c) 2015 The Khronos Group Inc.
+  Copyright (c) 2015 Imagination Technologies Ltd.
+  Copyright (c) 2023 LunarG, Inc.
+  Copyright (c) 2023 Nintendo
+
+external/vulkancts/modules/vulkan/pipeline/vktPipelineShaderModuleIdentifierTests.cpp
+  Copyright (c) 2022 The Khronos Group Inc.
+  Copyright (c) 2022 Valve Corporation.
+  Copyright (c) 2023 LunarG, Inc.
+  Copyright (c) 2023 Nintendo
+
+external/vulkancts/modules/vulkan/pipeline/vktPipelineSpecConstantTests.cpp
+  Copyright (c) 2016 The Khronos Group Inc.
+  Copyright (c) 2023 LunarG, Inc.
+  Copyright (c) 2023 Nintendo
+
+external/vulkancts/modules/vulkan/pipeline/vktPipelineStencilExportTests.cpp
+  Copyright (c) 2018 The Khronos Group Inc.
+  Copyright (c) 2023 LunarG, Inc.
+  Copyright (c) 2023 Nintendo
+
+external/vulkancts/modules/vulkan/pipeline/vktPipelineStencilTests.cpp
+  Copyright (c) 2015 The Khronos Group Inc.
+  Copyright (c) 2015 Imagination Technologies Ltd.
+  Copyright (c) 2023 LunarG, Inc.
+  Copyright (c) 2023 Nintendo
+
+external/vulkancts/modules/vulkan/pipeline/vktPipelineTimestampTests.cpp
+  Copyright (c) 2015 The Khronos Group Inc.
+  Copyright (c) 2015 ARM Ltd.
+  Copyright (c) 2023 LunarG, Inc.
+  Copyright (c) 2023 Nintendo
+
+external/vulkancts/modules/vulkan/pipeline/vktPipelineVertexInputTests.cpp
+  Copyright (c) 2015 The Khronos Group Inc.
+  Copyright (c) 2015 Imagination Technologies Ltd.
+  Copyright (c) 2023 LunarG, Inc.
+  Copyright (c) 2023 Nintendo
+
+external/vulkancts/modules/vulkan/postmortem/vktPostmortemDeviceFaultTests.cpp
+  Copyright (c) 2021 The Khronos Group Inc.
+
+external/vulkancts/modules/vulkan/postmortem/vktPostmortemDeviceLossTests.cpp
+  Copyright (c) 2023 The Khronos Group Inc.
+
+external/vulkancts/modules/vulkan/postmortem/vktPostmortemShaderTimeoutTests.cpp
+  Copyright (c) 2020 The Khronos Group Inc.
+
+external/vulkancts/modules/vulkan/postmortem/vktPostmortemUseAfterFreeTests.cpp
+  Copyright (c) 2020 The Khronos Group Inc.
+
+external/vulkancts/modules/vulkan/postmortem/vktPostmortemUtil.hpp
+  Copyright (c) 2020 The Khronos Group Inc.
+
+external/vulkancts/modules/vulkan/protected_memory/vktProtectedMemAttachmentClearTests.cpp
+  Copyright (c) 2017 The Khronos Group Inc.
+  Copyright (c) 2017 Samsung Electronics Co., Ltd.
+
+external/vulkancts/modules/vulkan/protected_memory/vktProtectedMemAttachmentLoadTests.cpp
+  Copyright (c) 2017 The Khronos Group Inc.
+  Copyright (c) 2017 Samsung Electronics Co., Ltd.
+
+external/vulkancts/modules/vulkan/protected_memory/vktProtectedMemBlitImageTests.cpp
+  Copyright (c) 2017 The Khronos Group Inc.
+  Copyright (c) 2017 Samsung Electronics Co., Ltd.
+
+external/vulkancts/modules/vulkan/protected_memory/vktProtectedMemClearColorImageTests.cpp
+  Copyright (c) 2017 The Khronos Group Inc.
+  Copyright (c) 2017 Samsung Electronics Co., Ltd.
+
+external/vulkancts/modules/vulkan/protected_memory/vktProtectedMemCopyBufferToImageTests.cpp
+  Copyright (c) 2017 The Khronos Group Inc.
+  Copyright (c) 2017 Samsung Electronics Co., Ltd.
+
+external/vulkancts/modules/vulkan/protected_memory/vktProtectedMemCopyImageTests.cpp
+  Copyright (c) 2017 The Khronos Group Inc.
+  Copyright (c) 2017 Samsung Electronics Co., Ltd.
+
+external/vulkancts/modules/vulkan/protected_memory/vktProtectedMemCopyImageToBufferTests.cpp
+  Copyright (c) 2017 The Khronos Group Inc.
+  Copyright (c) 2017 Samsung Electronics Co., Ltd.
+
+external/vulkancts/modules/vulkan/protected_memory/vktProtectedMemFillUpdateCopyBufferTests.cpp
+  Copyright (c) 2017 The Khronos Group Inc.
+  Copyright (c) 2017 Samsung Electronics Co., Ltd.
+
+external/vulkancts/modules/vulkan/protected_memory/vktProtectedMemShaderImageAccessTests.cpp
+  Copyright (c) 2017 The Khronos Group Inc.
+  Copyright (c) 2017 Samsung Electronics Co., Ltd.
+
+external/vulkancts/modules/vulkan/protected_memory/vktProtectedMemStackTests.cpp
+  Copyright (c) 2019 The Khronos Group Inc.
+  Copyright (c) 2018 The Khronos Group Inc.
+  Copyright (c) 2018 Google Inc.
+  Copyright (c) 2017 Samsung Electronics Co., Ltd.
+
+external/vulkancts/modules/vulkan/protected_memory/vktProtectedMemStorageBufferTests.cpp
+  Copyright (c) 2017 The Khronos Group Inc.
+  Copyright (c) 2017 Samsung Electronics Co., Ltd.
+
+external/vulkancts/modules/vulkan/protected_memory/vktProtectedMemWorkgroupStorageTests.cpp
+  Copyright (c) 2018 The Khronos Group Inc.
+  Copyright (c) 2018 Google Inc.
+  Copyright (c) 2017 Samsung Electronics Co., Ltd.
+
+external/vulkancts/modules/vulkan/protected_memory/vktProtectedMemWsiSwapchainTests.cpp
+  Copyright (c) 2017 The Khronos Group Inc.
+  Copyright (c) 2017 Samsung Electronics Co., Ltd.
+
+external/vulkancts/modules/vulkan/protected_memory/vktProtectedMemYCbCrConversionTests.cpp
+  Copyright (c) 2017 The Khronos Group Inc.
+  Copyright (c) 2017 Samsung Electronics Co., Ltd.
+
+external/vulkancts/modules/vulkan/query_pool/vktQueryMaintenance7Tests.cpp
+  Copyright (c) 2024 Khronos Group
+  Copyright (c) 2024 LunarG, Inc.
+  Copyright (c) 2024 Google LLC
+
+external/vulkancts/modules/vulkan/query_pool/vktQueryPoolConcurrentTests.cpp
+  Copyright (c) 2020 The Khronos Group Inc.
+  Copyright (c) 2020 Valve Corporation
+
+external/vulkancts/modules/vulkan/query_pool/vktQueryPoolFragInvocationTests.cpp
+  Copyright (c) 2023 The Khronos Group Inc.
+  Copyright (c) 2023 Valve Corporation.
+
+external/vulkancts/modules/vulkan/query_pool/vktQueryPoolOcclusionTests.cpp
+  Copyright (c) 2015 The Khronos Group Inc.
+  Copyright (c) 2015 Intel Corporation
+
+external/vulkancts/modules/vulkan/query_pool/vktQueryPoolPerformanceTests.cpp
+  Copyright (c) 2018 The Khronos Group Inc.
+
+external/vulkancts/modules/vulkan/query_pool/vktQueryPoolStatisticsTests.cpp
+  Copyright (c) 2016 The Khronos Group Inc.
+
+external/vulkancts/modules/vulkan/rasterization/vktRasterizationDepthBiasControlTests.cpp
+  Copyright (c) 2023 The Khronos Group Inc.
+  Copyright (c) 2023 Valve Corporation.
+
+external/vulkancts/modules/vulkan/rasterization/vktRasterizationFragShaderSideEffectsTests.cpp
+  Copyright (c) 2020 The Khronos Group Inc.
+  Copyright (c) 2020 Valve Corporation.
+
+external/vulkancts/modules/vulkan/rasterization/vktRasterizationOrderAttachmentAccessTests.cpp
+  Copyright (c) 2020 The Khronos Group Inc.
+  Copyright (c) 2020 ARM Ltd.
+
+external/vulkancts/modules/vulkan/rasterization/vktRasterizationProvokingVertexTests.cpp
+  Copyright (c) 2019 The Khronos Group Inc.
+  Copyright (c) 2019 Google LLC.
+
+external/vulkancts/modules/vulkan/rasterization/vktRasterizationTests.cpp
+  Copyright (c) 2016 The Khronos Group Inc.
+  Copyright (c) 2016 Samsung Electronics Co., Ltd.
+  Copyright (c) 2014 The Android Open Source Project
+
+external/vulkancts/modules/vulkan/rasterization/vktShaderTileImageTests.cpp
+  Copyright (c) 2022 The Khronos Group Inc.
+  Copyright (c) 2022 ARM Ltd.
+
+external/vulkancts/modules/vulkan/ray_query/vktRayQueryAccelerationStructuresTests.cpp
+  Copyright (c) 2020 The Khronos Group Inc.
+
+external/vulkancts/modules/vulkan/ray_query/vktRayQueryBarycentricCoordinatesTests.cpp
+  Copyright (c) 2021 The Khronos Group Inc.
+  Copyright (c) 2021 Valve Corporation.
+
+external/vulkancts/modules/vulkan/ray_query/vktRayQueryBuiltinTests.cpp
+  Copyright (c) 2020 The Khronos Group Inc.
+
+external/vulkancts/modules/vulkan/ray_query/vktRayQueryCullRayFlagsTests.cpp
+  Copyright (c) 2020 The Khronos Group Inc.
+
+external/vulkancts/modules/vulkan/ray_query/vktRayQueryDirectionTests.cpp
+  Copyright (c) 2021 The Khronos Group Inc.
+  Copyright (c) 2021 Valve Corporation.
+
+external/vulkancts/modules/vulkan/ray_query/vktRayQueryMiscTests.cpp
+  Copyright (c) 2020 The Khronos Group Inc.
+  Copyright (c) 2020 Valve Corporation.
+
+external/vulkancts/modules/vulkan/ray_query/vktRayQueryMultipleRayQueries.cpp
+  Copyright (c) 2015 The Khronos Group Inc.
+  Copyright (c) 2023 Advanced Micro Devices, Inc.
+
+external/vulkancts/modules/vulkan/ray_query/vktRayQueryNonUniformArgsTests.cpp
+  Copyright (c) 2021 The Khronos Group Inc.
+  Copyright (c) 2021 Valve Corporation.
+
+external/vulkancts/modules/vulkan/ray_query/vktRayQueryOpacityMicromapTests.cpp
+  Copyright (c) 2022 The Khronos Group Inc.
+  Copyright (c) 2022 NVIDIA Corporation.
+
+external/vulkancts/modules/vulkan/ray_query/vktRayQueryPositionFetchTests.cpp
+  Copyright (c) 2022 The Khronos Group Inc.
+  Copyright (c) 2022 NVIDIA Corporation.
+
+external/vulkancts/modules/vulkan/ray_query/vktRayQueryProceduralGeometryTests.cpp
+  Copyright (c) 2020 The Khronos Group Inc.
+
+external/vulkancts/modules/vulkan/ray_query/vktRayQueryStressTests.cpp
+  Copyright (c) 2015 The Khronos Group Inc.
+  Copyright (c) 2020 Advanced Micro Devices, Inc.
+
+external/vulkancts/modules/vulkan/ray_query/vktRayQueryTraversalControlTests.cpp
+  Copyright (c) 2020 The Khronos Group Inc.
+
+external/vulkancts/modules/vulkan/ray_query/vktRayQueryWatertightnessTests.cpp
+  Copyright (c) 2020 The Khronos Group Inc.
+
+external/vulkancts/modules/vulkan/ray_tracing/vktRayTracingAccelerationStructuresTests.cpp
+  Copyright (c) 2020 The Khronos Group Inc.
+
+external/vulkancts/modules/vulkan/ray_tracing/vktRayTracingBarrierTests.cpp
+  Copyright (c) 2020 The Khronos Group Inc.
+  Copyright (c) 2020 Valve Corporation.
+
+external/vulkancts/modules/vulkan/ray_tracing/vktRayTracingBarycentricCoordinatesTests.cpp
+  Copyright (c) 2021 The Khronos Group Inc.
+  Copyright (c) 2021 Valve Corporation.
+
+external/vulkancts/modules/vulkan/ray_tracing/vktRayTracingBuildIndirectTests.cpp
+  Copyright (c) 2019 The Khronos Group Inc.
+
+external/vulkancts/modules/vulkan/ray_tracing/vktRayTracingBuildLargeTests.cpp
+  Copyright (c) 2019 The Khronos Group Inc.
+
+external/vulkancts/modules/vulkan/ray_tracing/vktRayTracingBuildTests.cpp
+  Copyright (c) 2019 The Khronos Group Inc.
+
+external/vulkancts/modules/vulkan/ray_tracing/vktRayTracingBuiltinTests.cpp
+  Copyright (c) 2020 The Khronos Group Inc.
+
+external/vulkancts/modules/vulkan/ray_tracing/vktRayTracingCallableShadersTests.cpp
+  Copyright (c) 2020 The Khronos Group Inc.
+
+external/vulkancts/modules/vulkan/ray_tracing/vktRayTracingCaptureReplayTests.cpp
+  Copyright (c) 2020 The Khronos Group Inc.
+
+external/vulkancts/modules/vulkan/ray_tracing/vktRayTracingComplexControlFlowTests.cpp
+  Copyright (c) 2019 The Khronos Group Inc.
+
+external/vulkancts/modules/vulkan/ray_tracing/vktRayTracingDataSpillTests.cpp
+  Copyright (c) 2020 The Khronos Group Inc.
+  Copyright (c) 2020 Valve Corporation.
+
+external/vulkancts/modules/vulkan/ray_tracing/vktRayTracingDirectionTests.cpp
+  Copyright (c) 2021 The Khronos Group Inc.
+  Copyright (c) 2021 Valve Corporation.
+
+external/vulkancts/modules/vulkan/ray_tracing/vktRayTracingMemGuaranteeTests.cpp
+  Copyright (c) 2019 The Khronos Group Inc.
+
+external/vulkancts/modules/vulkan/ray_tracing/vktRayTracingMiscTests.cpp
+  Copyright (c) 2020 The Khronos Group Inc.
+
+external/vulkancts/modules/vulkan/ray_tracing/vktRayTracingNonUniformArgsTests.cpp
+  Copyright (c) 2021 The Khronos Group Inc.
+  Copyright (c) 2021 Valve Corporation.
+
+external/vulkancts/modules/vulkan/ray_tracing/vktRayTracingNullASTests.cpp
+  Copyright (c) 2020 The Khronos Group Inc.
+
+external/vulkancts/modules/vulkan/ray_tracing/vktRayTracingOpacityMicromapTests.cpp
+  Copyright (c) 2022 The Khronos Group Inc.
+  Copyright (c) 2022 NVIDIA Corporation.
+
+external/vulkancts/modules/vulkan/ray_tracing/vktRayTracingPipelineFlagsTests.cpp
+  Copyright (c) 2020 The Khronos Group Inc.
+
+external/vulkancts/modules/vulkan/ray_tracing/vktRayTracingPipelineLibraryTests.cpp
+  Copyright (c) 2020 The Khronos Group Inc.
+
+external/vulkancts/modules/vulkan/ray_tracing/vktRayTracingPositionFetchTests.cpp
+  Copyright (c) 2022 The Khronos Group Inc.
+  Copyright (c) 2022 NVIDIA Corporation.
+
+external/vulkancts/modules/vulkan/ray_tracing/vktRayTracingProceduralGeometryTests.cpp
+  Copyright (c) 2020 The Khronos Group Inc.
+
+external/vulkancts/modules/vulkan/ray_tracing/vktRayTracingShaderBindingTableTests.cpp
+  Copyright (c) 2020 The Khronos Group Inc.
+
+external/vulkancts/modules/vulkan/ray_tracing/vktRayTracingTraceRaysTests.cpp
+  Copyright (c) 2020-2022 The Khronos Group Inc.
+
+external/vulkancts/modules/vulkan/ray_tracing/vktRayTracingTraversalControlTests.cpp
+  Copyright (c) 2020 The Khronos Group Inc.
+
+external/vulkancts/modules/vulkan/ray_tracing/vktRayTracingWatertightnessTests.cpp
+  Copyright (c) 2019 The Khronos Group Inc.
+
+external/vulkancts/modules/vulkan/reconvergence/vktReconvergenceTerminateInvocationTests.cpp
+  Copyright (c) 2025 The Khronos Group Inc.
+  Copyright (c) 2025 Valve Corporation.
+
+external/vulkancts/modules/vulkan/reconvergence/vktReconvergenceTests.cpp
+  Copyright (c) 2019 The Khronos Group Inc.
+  Copyright (c) 2018-2020 NVIDIA Corporation
+
+external/vulkancts/modules/vulkan/renderpass/vktDynamicRenderingLocalReadTests.cpp
+  Copyright (c) 2023 The Khronos Group Inc.
+
+external/vulkancts/modules/vulkan/renderpass/vktDynamicRenderingRandomTests.cpp
+  Copyright (c) 2022 Google LLC
+  Copyright (c) 2022 The Khronos Group Inc.
+
+external/vulkancts/modules/vulkan/renderpass/vktDynamicRenderingTests.cpp
+  Copyright (c) 2021 The Khronos Group Inc.
+
+external/vulkancts/modules/vulkan/renderpass/vktDynamicRenderingUnusedAttachmentsTests.cpp
+  Copyright (c) 2023 The Khronos Group Inc.
+  Copyright (c) 2023 Valve Corporation
+
+external/vulkancts/modules/vulkan/renderpass/vktRenderPassDepthStencilResolveTests.cpp
+  Copyright (c) 2018 The Khronos Group Inc.
+
+external/vulkancts/modules/vulkan/renderpass/vktRenderPassDepthStencilWriteConditionsTests.cpp
+  Copyright (c) 2022 Google LLC.
+
+external/vulkancts/modules/vulkan/renderpass/vktRenderPassDitheringTests.cpp
+  Copyright (c) 2022 The Khronos Group Inc.
+  Copyright (c) 2022 Google Inc.
+  Copyright (c) 2022 LunarG, Inc.
+
+external/vulkancts/modules/vulkan/renderpass/vktRenderPassFragmentDensityMapTests.cpp
+  Copyright (c) 2019 The Khronos Group Inc.
+
+external/vulkancts/modules/vulkan/renderpass/vktRenderPassLoadStoreOpNoneTests.cpp
+  Copyright (c) 2021 The Khronos Group Inc.
+  Copyright (c) 2021 Google Inc.
+
+external/vulkancts/modules/vulkan/renderpass/vktRenderPassMultipleSubpassesMultipleCommandBuffersTests.cpp
+  Copyright (c) 2019 The Khronos Group Inc.
+  Copyright (c) 2019 Valve Corporation.
+
+external/vulkancts/modules/vulkan/renderpass/vktRenderPassMultisampleResolveTests.cpp
+  Copyright (c) 2017 Google Inc.
+
+external/vulkancts/modules/vulkan/renderpass/vktRenderPassMultisampleTests.cpp
+  Copyright (c) 2017 Google Inc.
+
+external/vulkancts/modules/vulkan/renderpass/vktRenderPassNestedCommandBuffersTests.cpp
+  Copyright (c) 2019 The Khronos Group Inc.
+
+external/vulkancts/modules/vulkan/renderpass/vktRenderPassRemainingArrayLayersTests.cpp
+  Copyright (c) 2024 LunarG, Inc.
+  Copyright (c) 2024 Google LLC
+
+external/vulkancts/modules/vulkan/renderpass/vktRenderPassSampleReadTests.cpp
+  Copyright (c) 2017 Google Inc.
+
+external/vulkancts/modules/vulkan/renderpass/vktRenderPassSparseRenderTargetTests.cpp
+  Copyright (c) 2017 Google Inc.
+
+external/vulkancts/modules/vulkan/renderpass/vktRenderPassSubpassDependencyTests.cpp
+  Copyright (c) 2018 Google Inc.
+  Copyright (c) 2018 The Khronos Group Inc.
+
+external/vulkancts/modules/vulkan/renderpass/vktRenderPassSubpassMergeFeedbackTests.cpp
+  Copyright (c) 2022 The Khronos Group Inc.
+
+external/vulkancts/modules/vulkan/renderpass/vktRenderPassTests.cpp
+  Copyright (c) 2015 Google Inc.
+
+external/vulkancts/modules/vulkan/renderpass/vktRenderPassUnusedAttachmentSparseFillingTests.cpp
+  Copyright (c) 2019 The Khronos Group Inc.
+  Copyright (c) 2018 Google Inc.
+  Copyright (c) 2015 Imagination Technologies Ltd.
+
+external/vulkancts/modules/vulkan/renderpass/vktRenderPassUnusedAttachmentTests.cpp
+  Copyright (c) 2018 The Khronos Group Inc.
+  Copyright (c) 2018 Google Inc.
+  Copyright (c) 2015 Imagination Technologies Ltd.
+
+external/vulkancts/modules/vulkan/renderpass/vktRenderPassUnusedClearAttachmentTests.cpp
+  Copyright (c) 2019 The Khronos Group Inc.
+  Copyright (c) 2019 Valve Corporation.
+
+external/vulkancts/modules/vulkan/robustness/vktRobustBufferAccessWithVariablePointersTests.cpp
+  Copyright (c) 2018 The Khronos Group Inc.
+
+external/vulkancts/modules/vulkan/robustness/vktRobustness1VertexAccessTests.cpp
+  Copyright (c) 2022 The Khronos Group Inc.
+  Copyright (c) 2022 Google Inc.
+  Copyright (c) 2023 LunarG, Inc.
+  Copyright (c) 2023 Nintendo
+
+external/vulkancts/modules/vulkan/robustness/vktRobustnessBufferAccessTests.cpp
+  Copyright (c) 2016 The Khronos Group Inc.
+  Copyright (c) 2016 Imagination Technologies Ltd.
+
+external/vulkancts/modules/vulkan/robustness/vktRobustnessExtsTests.cpp
+  Copyright (c) 2017-2019 The Khronos Group Inc.
+  Copyright (c) 2018-2020 NVIDIA Corporation
+
+external/vulkancts/modules/vulkan/robustness/vktRobustnessIndexAccessTests.cpp
+  Copyright (c) 2022 The Khronos Group Inc.
+
+external/vulkancts/modules/vulkan/robustness/vktRobustnessVertexAccessTests.cpp
+  Copyright (c) 2016 The Khronos Group Inc.
+  Copyright (c) 2016 Imagination Technologies Ltd.
+
+external/vulkancts/modules/vulkan/sc/vktApplicationParametersTests.cpp
+  Copyright (c) 2022 NVIDIA CORPORATION, Inc.
+
+external/vulkancts/modules/vulkan/sc/vktCommandPoolMemoryReservationTests.cpp
+  Copyright (c) 2021 The Khronos Group Inc.
+
+external/vulkancts/modules/vulkan/sc/vktDeviceObjectReservationTests.cpp
+  Copyright (c) 2021 The Khronos Group Inc.
+
+external/vulkancts/modules/vulkan/sc/vktFaultHandlingTests.cpp
+  Copyright (c) 2021 The Khronos Group Inc.
+
+external/vulkancts/modules/vulkan/sc/vktObjectRefreshTests.cpp
+  Copyright (c) 2021 The Khronos Group Inc.
+
+external/vulkancts/modules/vulkan/sc/vktPipelineCacheSCTests.cpp
+  Copyright (c) 2021 The Khronos Group Inc.
+
+external/vulkancts/modules/vulkan/sc/vktPipelineIdentifierTests.cpp
+  Copyright (c) 2021 The Khronos Group Inc.
+
+external/vulkancts/modules/vulkan/sc/vktSafetyCriticalApiTests.cpp
+  Copyright (c) 2021 The Khronos Group Inc.
+
+external/vulkancts/modules/vulkan/shader_object/vktShaderObjectApiTests.cpp
+  Copyright (c) 2023 LunarG, Inc.
+  Copyright (c) 2023 Nintendo
+
+external/vulkancts/modules/vulkan/shader_object/vktShaderObjectBinaryTests.cpp
+  Copyright (c) 2023 LunarG, Inc.
+  Copyright (c) 2023 Nintendo
+
+external/vulkancts/modules/vulkan/shader_object/vktShaderObjectBindingTests.cpp
+  Copyright (c) 2023 LunarG, Inc.
+  Copyright (c) 2023 Nintendo
+
+external/vulkancts/modules/vulkan/shader_object/vktShaderObjectCreateTests.cpp
+  Copyright (c) 2023 LunarG, Inc.
+  Copyright (c) 2023 Nintendo
+
+external/vulkancts/modules/vulkan/shader_object/vktShaderObjectLinkTests.cpp
+  Copyright (c) 2023 LunarG, Inc.
+  Copyright (c) 2023 Nintendo
+
+external/vulkancts/modules/vulkan/shader_object/vktShaderObjectMiscTests.cpp
+  Copyright (c) 2023 LunarG, Inc.
+  Copyright (c) 2023 Nintendo
+
+external/vulkancts/modules/vulkan/shader_object/vktShaderObjectPerformanceTests.cpp
+  Copyright (c) 2023 LunarG, Inc.
+  Copyright (c) 2023 Nintendo
+
+external/vulkancts/modules/vulkan/shader_object/vktShaderObjectPipelineInteractionTests.cpp
+  Copyright (c) 2023 LunarG, Inc.
+  Copyright (c) 2023 Nintendo
+
+external/vulkancts/modules/vulkan/shader_object/vktShaderObjectRenderingTests.cpp
+  Copyright (c) 2023 LunarG, Inc.
+  Copyright (c) 2023 Nintendo
+
+external/vulkancts/modules/vulkan/shader_object/vktShaderObjectTessellationTests.cpp
+  Copyright (c) 2024 LunarG, Inc.
+  Copyright (c) 2024 Nintendo
+
+external/vulkancts/modules/vulkan/shaderexecutor/vktAtomicOperationTests.cpp
+  Copyright (c) 2015-2024 The Khronos Group Inc.
+  Copyright (c) 2017 Google Inc.
+
+external/vulkancts/modules/vulkan/shaderexecutor/vktOpaqueTypeIndexingTests.cpp
+  Copyright (c) 2015 The Khronos Group Inc.
+  Copyright (c) 2015 Samsung Electronics Co., Ltd.
+  Copyright (c) 2016 The Android Open Source Project
+
+external/vulkancts/modules/vulkan/shaderexecutor/vktShaderBFloat16ComboTests.cpp
+  Copyright (c) 2025 The Khronos Group Inc.
+
+external/vulkancts/modules/vulkan/shaderexecutor/vktShaderBFloat16DotTests.cpp
+  Copyright (c) 2024 The Khronos Group Inc.
+
+external/vulkancts/modules/vulkan/shaderexecutor/vktShaderClockTests.cpp
+  Copyright (c) 2015 The Khronos Group Inc.
+  Copyright (c) 2018 Advanced Micro Devices, Inc.
+
+external/vulkancts/modules/vulkan/shaderexecutor/vktShaderCommonFunctionTests.cpp
+  Copyright (c) 2015 The Khronos Group Inc.
+  Copyright (c) 2015 Samsung Electronics Co., Ltd.
+  Copyright (c) 2016 The Android Open Source Project
+
+external/vulkancts/modules/vulkan/shaderexecutor/vktShaderExpectAssumeTests.cpp
+  Copyright (c) 2015 The Khronos Group Inc.
+  Copyright (c) 2023 ARM Ltd.
+
+external/vulkancts/modules/vulkan/shaderexecutor/vktShaderFConvertTests.cpp
+  Copyright (c) 2019 Valve Corporation.
+  Copyright (c) 2019 The Khronos Group Inc.
+
+external/vulkancts/modules/vulkan/shaderexecutor/vktShaderHelperInvocationsTests.cpp
+  Copyright (c) 2024 The Khronos Group Inc.
+
+external/vulkancts/modules/vulkan/shaderexecutor/vktShaderPackingFunctionTests.cpp
+  Copyright (c) 2015 The Khronos Group Inc.
+  Copyright (c) 2015 Samsung Electronics Co., Ltd.
+  Copyright (c) 2016 The Android Open Source Project
+
+external/vulkancts/modules/vulkan/shaderrender/vktShaderRenderBuiltinVarTests.cpp
+  Copyright (c) 2015 The Khronos Group Inc.
+  Copyright (c) 2015 Samsung Electronics Co., Ltd.
+  Copyright (c) 2016 The Android Open Source Project
+
+external/vulkancts/modules/vulkan/shaderrender/vktShaderRenderDerivateTests.cpp
+  Copyright (c) 2016 The Khronos Group Inc.
+  Copyright (c) 2016 Samsung Electronics Co., Ltd.
+  Copyright (c) 2016 The Android Open Source Project
+
+external/vulkancts/modules/vulkan/shaderrender/vktShaderRenderInvarianceTests.cpp
+  Copyright (c) 2019 The Khronos Group Inc.
+  Copyright (c) 2018 Google Inc.
+
+external/vulkancts/modules/vulkan/shaderrender/vktShaderRenderLimitTests.cpp
+  Copyright (c) 2018 Google Inc.
+
+external/vulkancts/modules/vulkan/shaderrender/vktShaderRenderMatrixTests.cpp
+  Copyright (c) 2015 The Khronos Group Inc.
+  Copyright (c) 2015 Samsung Electronics Co., Ltd.
+  Copyright (c) 2016 The Android Open Source Project
+
+external/vulkancts/modules/vulkan/shaderrender/vktShaderRenderOperatorTests.cpp
+  Copyright (c) 2015 The Khronos Group Inc.
+  Copyright (c) 2015 Samsung Electronics Co., Ltd.
+  Copyright (c) 2016 The Android Open Source Project
+
+external/vulkancts/modules/vulkan/shaderrender/vktShaderRenderReturnTests.cpp
+  Copyright (c) 2015 The Khronos Group Inc.
+  Copyright (c) 2015 Samsung Electronics Co., Ltd.
+  Copyright (c) 2016 The Android Open Source Project
+
+external/vulkancts/modules/vulkan/shaderrender/vktShaderRenderTextureFunctionTests.cpp
+  Copyright (c) 2016 The Khronos Group Inc.
+  Copyright (c) 2016 Samsung Electronics Co., Ltd.
+  Copyright (c) 2016 The Android Open Source Project
+
+external/vulkancts/modules/vulkan/sparse_resources/vktSparseResourcesBufferMemoryAliasing.cpp
+  Copyright (c) 2016 The Khronos Group Inc.
+
+external/vulkancts/modules/vulkan/sparse_resources/vktSparseResourcesBufferRebind.cpp
+  Copyright (c) 2023 The Khronos Group Inc.
+
+external/vulkancts/modules/vulkan/sparse_resources/vktSparseResourcesBufferSparseBinding.cpp
+  Copyright (c) 2016 The Khronos Group Inc.
+
+external/vulkancts/modules/vulkan/sparse_resources/vktSparseResourcesBufferSparseResidency.cpp
+  Copyright (c) 2016 The Khronos Group Inc.
+
+external/vulkancts/modules/vulkan/sparse_resources/vktSparseResourcesBufferTests.cpp
+  Copyright (c) 2016 The Khronos Group Inc.
+
+external/vulkancts/modules/vulkan/sparse_resources/vktSparseResourcesImageAlignedMipSize.cpp
+  Copyright (c) 2017 The Khronos Group Inc.
+  Copyright (c) 2017 Google Inc.
+
+external/vulkancts/modules/vulkan/sparse_resources/vktSparseResourcesImageBlockShapes.cpp
+  Copyright (c) 2017 The Khronos Group Inc.
+  Copyright (c) 2017 Google Inc.
+
+external/vulkancts/modules/vulkan/sparse_resources/vktSparseResourcesImageMemoryAliasing.cpp
+  Copyright (c) 2016 The Khronos Group Inc.
+
+external/vulkancts/modules/vulkan/sparse_resources/vktSparseResourcesImageRebind.cpp
+  Copyright (c) 2023 The Khronos Group Inc.
+
+external/vulkancts/modules/vulkan/sparse_resources/vktSparseResourcesImageSparseBinding.cpp
+  Copyright (c) 2016 The Khronos Group Inc.
+
+external/vulkancts/modules/vulkan/sparse_resources/vktSparseResourcesImageSparseResidency.cpp
+  Copyright (c) 2016 The Khronos Group Inc.
+
+external/vulkancts/modules/vulkan/sparse_resources/vktSparseResourcesMipmapSparseResidency.cpp
+  Copyright (c) 2016 The Khronos Group Inc.
+
+external/vulkancts/modules/vulkan/sparse_resources/vktSparseResourcesMultisampledImageSparseBinding.cpp
+  Copyright (c) 2024 The Khronos Group Inc.
+
+external/vulkancts/modules/vulkan/sparse_resources/vktSparseResourcesMultisampledImageSparseResidency.cpp
+  Copyright (c) 2024 The Khronos Group Inc.
+
+external/vulkancts/modules/vulkan/sparse_resources/vktSparseResourcesQueueBindSparseTests.cpp
+  Copyright (c) 2016 The Khronos Group Inc.
+
+external/vulkancts/modules/vulkan/sparse_resources/vktSparseResourcesTransferQueueTests.cpp
+  Copyright (c) 2023 The Khronos Group Inc.
+
+external/vulkancts/modules/vulkan/spirv_assembly/vktSpvAsm16bitStorageTests.cpp
+  Copyright (c) 2017 Google Inc.
+
+external/vulkancts/modules/vulkan/spirv_assembly/vktSpvAsm64bitCompareTests.cpp
+  Copyright (c) 2019 Valve Corporation.
+  Copyright (c) 2019 The Khronos Group Inc.
+
+external/vulkancts/modules/vulkan/spirv_assembly/vktSpvAsmComputeShaderCase.cpp
+  Copyright (c) 2019 Google LLC
+
+external/vulkancts/modules/vulkan/spirv_assembly/vktSpvAsmComputeShaderDerivativesTests.cpp
+  Copyright (c) 2024 The Khronos Group Inc.
+
+external/vulkancts/modules/vulkan/spirv_assembly/vktSpvAsmCrossStageInterfaceTests.cpp
+  Copyright (c) 2017 Google Inc.
+
+external/vulkancts/modules/vulkan/spirv_assembly/vktSpvAsmFloatControlsExtensionlessTests.cpp
+  Copyright (c) 2019 The Khronos Group Inc.
+
+external/vulkancts/modules/vulkan/spirv_assembly/vktSpvAsmFloatControlsTests.cpp
+  Copyright (c) 2018 The Khronos Group Inc.
+
+external/vulkancts/modules/vulkan/spirv_assembly/vktSpvAsmGraphicsShaderTestUtil.cpp
+  Copyright (c) 2017 Google Inc.
+
+external/vulkancts/modules/vulkan/spirv_assembly/vktSpvAsmLoopDepInfTests.cpp
+  Copyright (c) 2017 The Khronos Group Inc.
+
+external/vulkancts/modules/vulkan/spirv_assembly/vktSpvAsmLoopDepLenTests.cpp
+  Copyright (c) 2017 The Khronos Group Inc.
+
+external/vulkancts/modules/vulkan/spirv_assembly/vktSpvAsmMaint9VectorizationTests.cpp
+  Copyright (c) 2020 Valve Corporation.
+  Copyright (c) 2020 The Khronos Group Inc.
+
+external/vulkancts/modules/vulkan/spirv_assembly/vktSpvAsmNonSemanticInfoTests.cpp
+  Copyright (c) 2019 The Khronos Group Inc.
+
+external/vulkancts/modules/vulkan/spirv_assembly/vktSpvAsmPhysicalStorageBufferPointerTests.cpp
+  Copyright (c) 2021 The Khronos Group Inc.
+  Copyright (c) 2016 The Android Open Source Project
+
+external/vulkancts/modules/vulkan/spirv_assembly/vktSpvAsmRawAccessChainTests.cpp
+  Copyright (c) 2023 The Khronos Group Inc.
+
+external/vulkancts/modules/vulkan/spirv_assembly/vktSpvAsmRelaxedWithForwardReferenceTests.cpp
+  Copyright (c) 2024 Google Inc.
+
+external/vulkancts/modules/vulkan/spirv_assembly/vktSpvAsmSpirvVersionTests.cpp
+  Copyright (c) 2017 The Khronos Group Inc.
+
+external/vulkancts/modules/vulkan/spirv_assembly/vktSpvAsmTrinaryMinMaxTests.cpp
+  Copyright (c) 2020 Valve Corporation.
+  Copyright (c) 2020 The Khronos Group Inc.
+
+external/vulkancts/modules/vulkan/spirv_assembly/vktSpvAsmUntypedPointersTests.cpp
+  Copyright (c) 2023 The Khronos Group Inc.
+
+external/vulkancts/modules/vulkan/spirv_assembly/vktSpvAsmVariableInitTests.cpp
+  Copyright (c) 2018 Google Inc.
+
+external/vulkancts/modules/vulkan/ssbo/vktSSBOCornerCase.cpp
+  Copyright (c) 2021 The Khronos Group Inc.
+  Copyright (c) 2021 Google LLC.
+
+external/vulkancts/modules/vulkan/ssbo/vktSSBOLayoutCase.cpp
+  Copyright (c) 2015 The Khronos Group Inc.
+  Copyright (c) 2015 Samsung Electronics Co., Ltd.
+  Copyright (c) 2016 The Android Open Source Project
+
+external/vulkancts/modules/vulkan/ssbo/vktSSBOLayoutCase.hpp
+  Copyright (c) 2015 The Khronos Group Inc.
+  Copyright (c) 2015 Samsung Electronics Co., Ltd.
+
+external/vulkancts/modules/vulkan/ssbo/vktSSBOLayoutTests.cpp
+  Copyright (c) 2015 The Khronos Group Inc.
+  Copyright (c) 2015 Samsung Electronics Co., Ltd.
+  Copyright (c) 2016 The Android Open Source Project
+
+external/vulkancts/modules/vulkan/subgroups/vktSubgroupUniformControlFlowTests.cpp
+  Copyright (c) 2020 Google LLC
+  Copyright (c) 2020 The Khronos Group Inc.
+
+external/vulkancts/modules/vulkan/subgroups/vktSubgroupsArithmeticTests.cpp
+  Copyright (c) 2019 The Khronos Group Inc.
+  Copyright (c) 2019 Google Inc.
+  Copyright (c) 2017 Codeplay Software Ltd.
+
+external/vulkancts/modules/vulkan/subgroups/vktSubgroupsBallotBroadcastTests.cpp
+  Copyright (c) 2019 The Khronos Group Inc.
+  Copyright (c) 2019 Google Inc.
+  Copyright (c) 2017 Codeplay Software Ltd.
+
+external/vulkancts/modules/vulkan/subgroups/vktSubgroupsBallotMasksTests.cpp
+  Copyright (c) 2019 The Khronos Group Inc.
+  Copyright (c) 2019 Valve Corporation.
+
+external/vulkancts/modules/vulkan/subgroups/vktSubgroupsBallotOtherTests.cpp
+  Copyright (c) 2019 The Khronos Group Inc.
+  Copyright (c) 2019 Google Inc.
+  Copyright (c) 2017 Codeplay Software Ltd.
+
+external/vulkancts/modules/vulkan/subgroups/vktSubgroupsBallotTests.cpp
+  Copyright (c) 2019 The Khronos Group Inc.
+  Copyright (c) 2019 Google Inc.
+  Copyright (c) 2017 Codeplay Software Ltd.
+
+external/vulkancts/modules/vulkan/subgroups/vktSubgroupsBasicTests.cpp
+  Copyright (c) 2019 The Khronos Group Inc.
+  Copyright (c) 2019 Google Inc.
+  Copyright (c) 2017 Codeplay Software Ltd.
+
+external/vulkancts/modules/vulkan/subgroups/vktSubgroupsBuiltinMaskVarTests.cpp
+  Copyright (c) 2019 The Khronos Group Inc.
+  Copyright (c) 2019 Google Inc.
+  Copyright (c) 2017 Codeplay Software Ltd.
+
+external/vulkancts/modules/vulkan/subgroups/vktSubgroupsBuiltinVarTests.cpp
+  Copyright (c) 2019 The Khronos Group Inc.
+  Copyright (c) 2019 Google Inc.
+  Copyright (c) 2017 Codeplay Software Ltd.
+
+external/vulkancts/modules/vulkan/subgroups/vktSubgroupsClusteredTests.cpp
+  Copyright (c) 2019 The Khronos Group Inc.
+  Copyright (c) 2019 Google Inc.
+  Copyright (c) 2017 Codeplay Software Ltd.
+
+external/vulkancts/modules/vulkan/subgroups/vktSubgroupsMultipleDispatchesUniformSubgroupSizeTests.cpp
+  Copyright (c) 2021 Google LLC.
+
+external/vulkancts/modules/vulkan/subgroups/vktSubgroupsPartitionedTests.cpp
+  Copyright (c) 2019 The Khronos Group Inc.
+  Copyright (c) 2019 Google Inc.
+  Copyright (c) 2017 Codeplay Software Ltd.
+  Copyright (c) 2018 NVIDIA Corporation
+
+external/vulkancts/modules/vulkan/subgroups/vktSubgroupsQuadControlTests.cpp
+  Copyright (c) 2023 The Khronos Group Inc.
+
+external/vulkancts/modules/vulkan/subgroups/vktSubgroupsQuadTests.cpp
+  Copyright (c) 2019 The Khronos Group Inc.
+  Copyright (c) 2019 Google Inc.
+  Copyright (c) 2017 Codeplay Software Ltd.
+
+external/vulkancts/modules/vulkan/subgroups/vktSubgroupsShapeTests.cpp
+  Copyright (c) 2019 The Khronos Group Inc.
+  Copyright (c) 2019 Google Inc.
+  Copyright (c) 2017 Codeplay Software Ltd.
+
+external/vulkancts/modules/vulkan/subgroups/vktSubgroupsShuffleTests.cpp
+  Copyright (c) 2019, 2021-2023 The Khronos Group Inc.
+  Copyright (c) 2019 Google Inc.
+  Copyright (c) 2017 Codeplay Software Ltd.
+
+external/vulkancts/modules/vulkan/subgroups/vktSubgroupsSizeControlTests.cpp
+  Copyright (c) 2019 The Khronos Group Inc.
+  Copyright (c) 2019 Valve Corporation.
+
+external/vulkancts/modules/vulkan/subgroups/vktSubgroupsUniformDescriptorIndexingTests.cpp
+  Copyright (c) 2024 The Khronos Group Inc.
+
+external/vulkancts/modules/vulkan/subgroups/vktSubgroupsVoteTests.cpp
+  Copyright (c) 2019 The Khronos Group Inc.
+  Copyright (c) 2019 Google Inc.
+  Copyright (c) 2017 Codeplay Software Ltd.
+
+external/vulkancts/modules/vulkan/synchronization/vktGlobalPriorityQueueTests.cpp
+  Copyright (c) 2022 The Khronos Group Inc.
+
+external/vulkancts/modules/vulkan/synchronization/vktSynchronizationBasicEventTests.cpp
+  Copyright (c) 2016 The Khronos Group Inc.
+
+external/vulkancts/modules/vulkan/synchronization/vktSynchronizationBasicFenceTests.cpp
+  Copyright (c) 2016 The Khronos Group Inc.
+
+external/vulkancts/modules/vulkan/synchronization/vktSynchronizationBasicSemaphoreTests.cpp
+  Copyright (c) 2016 The Khronos Group Inc.
+
+external/vulkancts/modules/vulkan/synchronization/vktSynchronizationImageLayoutTransitionTests.cpp
+  Copyright (c) 2021 Google LLC.
+
+external/vulkancts/modules/vulkan/synchronization/vktSynchronizationImplicitTests.cpp
+  Copyright (c) 2024 The Khronos Group Inc.
+
+external/vulkancts/modules/vulkan/synchronization/vktSynchronizationInternallySynchronizedObjectsTests.cpp
+  Copyright (c) 2016 The Khronos Group Inc.
+
+external/vulkancts/modules/vulkan/synchronization/vktSynchronizationNoneStageTests.cpp
+  Copyright (c) 2020 The Khronos Group Inc.
+
+external/vulkancts/modules/vulkan/synchronization/vktSynchronizationOperationMultiQueueTests.cpp
+  Copyright (c) 2016 The Khronos Group Inc.
+
+external/vulkancts/modules/vulkan/synchronization/vktSynchronizationOperationSingleQueueTests.cpp
+  Copyright (c) 2016 The Khronos Group Inc.
+
+external/vulkancts/modules/vulkan/synchronization/vktSynchronizationSignalOrderTests.cpp
+  Copyright (c) 2019 The Khronos Group Inc.
+
+external/vulkancts/modules/vulkan/synchronization/vktSynchronizationSmokeTests.cpp
+  Copyright (c) 2016 Google Inc.
+
+external/vulkancts/modules/vulkan/synchronization/vktSynchronizationTimelineSemaphoreTests.cpp
+  Copyright (c) 2019 The Khronos Group Inc.
+
+external/vulkancts/modules/vulkan/tessellation/vktTessellationCommonEdgeTests.cpp
+  Copyright (c) 2014 The Android Open Source Project
+  Copyright (c) 2016 The Khronos Group Inc.
+
+external/vulkancts/modules/vulkan/tessellation/vktTessellationCoordinatesTests.cpp
+  Copyright (c) 2014 The Android Open Source Project
+  Copyright (c) 2016 The Khronos Group Inc.
+
+external/vulkancts/modules/vulkan/tessellation/vktTessellationFractionalSpacingTests.cpp
+  Copyright (c) 2014 The Android Open Source Project
+  Copyright (c) 2016 The Khronos Group Inc.
+
+external/vulkancts/modules/vulkan/tessellation/vktTessellationGeometryGridRenderTests.cpp
+  Copyright (c) 2014 The Android Open Source Project
+  Copyright (c) 2016 The Khronos Group Inc.
+
+external/vulkancts/modules/vulkan/tessellation/vktTessellationGeometryPassthroughTests.cpp
+  Copyright (c) 2014 The Android Open Source Project
+  Copyright (c) 2016 The Khronos Group Inc.
+
+external/vulkancts/modules/vulkan/tessellation/vktTessellationGeometryPointSizeTests.cpp
+  Copyright (c) 2014 The Android Open Source Project
+  Copyright (c) 2016 The Khronos Group Inc.
+
+external/vulkancts/modules/vulkan/tessellation/vktTessellationInvarianceTests.cpp
+  Copyright (c) 2014 The Android Open Source Project
+  Copyright (c) 2016 The Khronos Group Inc.
+
+external/vulkancts/modules/vulkan/tessellation/vktTessellationLimitsTests.cpp
+  Copyright (c) 2014 The Android Open Source Project
+  Copyright (c) 2016 The Khronos Group Inc.
+
+external/vulkancts/modules/vulkan/tessellation/vktTessellationMatrixMultiplicationTests.cpp
+  Copyright (c) 2025 The Khronos Group Inc.
+  Copyright (c) 2025 Google LLC
+
+external/vulkancts/modules/vulkan/tessellation/vktTessellationMaxIOTests.cpp
+  Copyright (c) 2024 The Khronos Group Inc.
+
+external/vulkancts/modules/vulkan/tessellation/vktTessellationMiscDrawTests.cpp
+  Copyright (c) 2014 The Android Open Source Project
+  Copyright (c) 2016 The Khronos Group Inc.
+
+external/vulkancts/modules/vulkan/tessellation/vktTessellationPrimitiveDiscardTests.cpp
+  Copyright (c) 2014 The Android Open Source Project
+  Copyright (c) 2016 The Khronos Group Inc.
+
+external/vulkancts/modules/vulkan/tessellation/vktTessellationShaderInputOutputTests.cpp
+  Copyright (c) 2014 The Android Open Source Project
+  Copyright (c) 2016 The Khronos Group Inc.
+
+external/vulkancts/modules/vulkan/tessellation/vktTessellationUserDefinedIO.cpp
+  Copyright (c) 2014 The Android Open Source Project
+  Copyright (c) 2016 The Khronos Group Inc.
+
+external/vulkancts/modules/vulkan/tessellation/vktTessellationWindingTests.cpp
+  Copyright (c) 2014 The Android Open Source Project
+  Copyright (c) 2016 The Khronos Group Inc.
+
+external/vulkancts/modules/vulkan/texture/vktTextureCompressedFormatTests.cpp
+  Copyright (c) 2016 The Khronos Group Inc.
+  Copyright (c) 2016 Samsung Electronics Co., Ltd.
+  Copyright (c) 2014 The Android Open Source Project
+
+external/vulkancts/modules/vulkan/texture/vktTextureConversionTests.cpp
+  Copyright (c) 2020 The Khronos Group Inc.
+  Copyright (c) 2020 Google Inc.
+
+external/vulkancts/modules/vulkan/texture/vktTextureFilteringAnisotropyTests.cpp
+  Copyright (c) 2016 The Khronos Group Inc.
+
+external/vulkancts/modules/vulkan/texture/vktTextureFilteringExplicitLodTests.cpp
+  Copyright (c) 2016 Google Inc.
+
+external/vulkancts/modules/vulkan/texture/vktTextureFilteringTests.cpp
+  Copyright (c) 2016 The Khronos Group Inc.
+  Copyright (c) 2016 Samsung Electronics Co., Ltd.
+  Copyright (c) 2014 The Android Open Source Project
+
+external/vulkancts/modules/vulkan/texture/vktTextureMipmapTests.cpp
+  Copyright (c) 2016 The Khronos Group Inc.
+  Copyright (c) 2016 Samsung Electronics Co., Ltd.
+  Copyright 2014 The Android Open Source Project
+
+external/vulkancts/modules/vulkan/texture/vktTextureShadowTests.cpp
+  Copyright 2014 The Android Open Source Project
+  Copyright (c) 2016 The Khronos Group Inc.
+  Copyright (c) 2016 Samsung Electronics Co., Ltd.
+
+external/vulkancts/modules/vulkan/texture/vktTextureSwizzleTests.cpp
+  Copyright (c) 2018 Google Inc.
+  Copyright (c) 2018 The Khronos Group Inc.
+  Copyright (c) 2016 Samsung Electronics Co., Ltd.
+  Copyright (c) 2014 The Android Open Source Project
+
+external/vulkancts/modules/vulkan/texture/vktTextureTestUtil.cpp
+  Copyright (c) 2016 The Khronos Group Inc.
+  Copyright (c) 2016 Samsung Electronics Co., Ltd.
+  Copyright (c) 2014 The Android Open Source Project
+
+external/vulkancts/modules/vulkan/texture/vktTextureTestUtil.hpp
+  Copyright (c) 2016 The Khronos Group Inc.
+  Copyright (c) 2016 Samsung Electronics Co., Ltd.
+  Copyright (c) 2014 The Android Open Source Project
+
+external/vulkancts/modules/vulkan/transform_feedback/vktPrimitivesGeneratedQueryTests.cpp
+  Copyright (c) 2021 Google LLC
+
+external/vulkancts/modules/vulkan/transform_feedback/vktTransformFeedbackFuzzLayoutCase.hpp
+  Copyright (c) 2015 The Khronos Group Inc.
+  Copyright (c) 2015 Samsung Electronics Co., Ltd.
+  Copyright (c) 2018 The Khronos Group Inc.
+
+external/vulkancts/modules/vulkan/transform_feedback/vktTransformFeedbackFuzzLayoutTests.cpp
+  Copyright (c) 2015 The Khronos Group Inc.
+  Copyright (c) 2015 Samsung Electronics Co., Ltd.
+  Copyright (c) 2016 The Android Open Source Project
+  Copyright (c) 2018 The Khronos Group Inc.
+
+external/vulkancts/modules/vulkan/transform_feedback/vktTransformFeedbackPrimitiveRestartTests.cpp
+  Copyright (c) 2025 The Khronos Group Inc.
+  Copyright (c) 2025 Valve Corporation.
+
+external/vulkancts/modules/vulkan/transform_feedback/vktTransformFeedbackRandomLayoutCase.cpp
+  Copyright (c) 2015 The Khronos Group Inc.
+  Copyright (c) 2015 Samsung Electronics Co., Ltd.
+  Copyright (c) 2016 The Android Open Source Project
+  Copyright (c) 2018 The Khronos Group Inc.
+
+external/vulkancts/modules/vulkan/transform_feedback/vktTransformFeedbackSimpleTests.cpp
+  Copyright (c) 2018 The Khronos Group Inc.
+
+external/vulkancts/modules/vulkan/ubo/vktRandomUniformBlockCase.cpp
+  Copyright (c) 2015 The Khronos Group Inc.
+  Copyright (c) 2015 Samsung Electronics Co., Ltd.
+  Copyright (c) 2016 The Android Open Source Project
+
+external/vulkancts/modules/vulkan/ubo/vktUniformBlockCase.cpp
+  Copyright (c) 2015 The Khronos Group Inc.
+  Copyright (c) 2015 Samsung Electronics Co., Ltd.
+  Copyright (c) 2016 The Android Open Source Project
+
+external/vulkancts/modules/vulkan/ubo/vktUniformBlockTests.cpp
+  Copyright (c) 2015 The Khronos Group Inc.
+  Copyright (c) 2015 Samsung Electronics Co., Ltd.
+  Copyright (c) 2016 The Android Open Source Project
+
+external/vulkancts/modules/vulkan/video/vktVideoCapabilitiesTests.cpp
+  Copyright (c) 2021 The Khronos Group Inc.
+
+external/vulkancts/modules/vulkan/video/vktVideoDecodeTests.cpp
+  Copyright (c) 2023 The Khronos Group Inc.
+
+external/vulkancts/modules/vulkan/video/vktVideoEncodeTests.cpp
+  Copyright (c) 2024 The Khronos Group Inc.
+
+external/vulkancts/modules/vulkan/video/vktVideoEncodeTestsAV1.cpp
+  Copyright (c) 2024 The Khronos Group Inc.
+
+external/vulkancts/modules/vulkan/vktInfoTests.cpp
+  Copyright (c) 2016 Google Inc.
+
+external/vulkancts/modules/vulkan/vktTestCase.hpp
+  Copyright (c) 2015 Google Inc.
+  Copyright (c) 2023 LunarG, Inc.
+  Copyright (c) 2023 Nintendo
+
+external/vulkancts/modules/vulkan/vktTestCaseUtil.cpp
+  Copyright (c) 2015 Google Inc.
+
+external/vulkancts/modules/vulkan/wsi/vktWsiAcquireDrmDisplayTests.cpp
+  Copyright (c) 2022 The Khronos Group Inc.
+
+external/vulkancts/modules/vulkan/wsi/vktWsiColorSpaceTests.cpp
+  Copyright (c) 2017 Google Inc.
+
+external/vulkancts/modules/vulkan/wsi/vktWsiDisplayControlTests.cpp
+  Copyright (c) 2019 The Khronos Group Inc.
+
+external/vulkancts/modules/vulkan/wsi/vktWsiDisplayTests.cpp
+  Copyright (c) 2017 The Khronos Group Inc.
+
+external/vulkancts/modules/vulkan/wsi/vktWsiDisplayTimingTests.cpp
+  Copyright (c) 2017 Google Inc.
+
+external/vulkancts/modules/vulkan/wsi/vktWsiFullScreenExclusiveTests.cpp
+  Copyright (c) 2017 Google Inc.
+  Copyright (c) 2020 The Khronos Group Inc.
+
+external/vulkancts/modules/vulkan/wsi/vktWsiIncrementalPresentTests.cpp
+  Copyright (c) 2016 Google Inc.
+
+external/vulkancts/modules/vulkan/wsi/vktWsiMaintenance1Tests.cpp
+  Copyright (c) 2022,2025 Google Inc.
+  Copyright (c) 2022,2025 The Khronos Group Inc.
+
+external/vulkancts/modules/vulkan/wsi/vktWsiPresentIdWaitTests.cpp
+  Copyright (c) 2019 The Khronos Group Inc.
+  Copyright (c) 2019 Valve Corporation.
+
+external/vulkancts/modules/vulkan/wsi/vktWsiSharedPresentableImageTests.cpp
+  Copyright (c) 2017 Google Inc.
+
+external/vulkancts/modules/vulkan/wsi/vktWsiSurfaceTests.cpp
+  Copyright (c) 2016 Google Inc.
+
+external/vulkancts/modules/vulkan/wsi/vktWsiSwapchainTests.cpp
+  Copyright (c) 2016 Google Inc.
+
+external/vulkancts/modules/vulkan/ycbcr/vktYCbCrConversionTests.cpp
+  Copyright (c) 2017 Google Inc.
+
+external/vulkancts/modules/vulkan/ycbcr/vktYCbCrCopyTests.cpp
+  Copyright (c) 2017 Google Inc.
+
+external/vulkancts/modules/vulkan/ycbcr/vktYCbCrFilteringTests.cpp
+  Copyright (c) 2020 The Khronos Group Inc.
+
+external/vulkancts/modules/vulkan/ycbcr/vktYCbCrFormatTests.cpp
+  Copyright (c) 2017 Google Inc.
+
+external/vulkancts/modules/vulkan/ycbcr/vktYCbCrImageOffsetTests.cpp
+  Copyright (c) 2022 Google Inc.
+
+external/vulkancts/modules/vulkan/ycbcr/vktYCbCrImageQueryTests.cpp
+  Copyright (c) 2019 Google Inc.
+
+external/vulkancts/modules/vulkan/ycbcr/vktYCbCrMiscTests.cpp
+  Copyright (c) 2017 Google Inc.
+
+external/vulkancts/modules/vulkan/ycbcr/vktYCbCrStorageImageWriteTests.cpp
+  Copyright (c) 2017 Google Inc.
+
+external/vulkancts/modules/vulkan/ycbcr/vktYCbCrViewTests.cpp
+  Copyright (c) 2017 Google Inc.
+
+framework/common/tcuTestCase.hpp
+  Copyright 2014 The Android Open Source Project
+
+framework/egl/egluCallLogWrapper.hpp
+  Copyright 2014 The Android Open Source Project
